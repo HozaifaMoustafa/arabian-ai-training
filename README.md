@@ -2,7 +2,7 @@
 
 This repository is the single source of all course material for the AI Engineering track: project briefs, datasets, group rosters, mentor QA assignments, discussion schedules, and where every group submits their work. New projects are added here as the course progresses — no new links or new repos per project.
 
-**Instructor:** Hozaifa Moustafa · hozaifa.moustafa@alshaya.ai
+**Instructor:** Hozaifa Moustafa · hozaifa.dev@gmail.com
 
 ## Cohorts
 
