@@ -1,6 +1,6 @@
 # A1 Roster — Monday & Thursday Cohort
 
-~60 students, organized into groups of 3–5. Fill in real names below; add/remove group blocks as needed once the final roster is set (placeholders below assume ~15 groups of 4 — adjust freely).
+~72 students, organized into groups of 3–5. Fill in real names below; add/remove group blocks as needed once the final roster is set (placeholders below assume ~15 groups of 4 — adjust freely).
 
 | Group ID  | Members (3-5 names) |
 |-----------|----------------------|
