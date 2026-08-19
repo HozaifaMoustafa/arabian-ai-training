@@ -4,21 +4,21 @@
 
 | Group ID  | Members (3-5 names) |
 |-----------|----------------------|
-| a1-g01    | _, _, _, _ |
-| a1-g02    | _, _, _, _ |
-| a1-g03    | _, _, _, _ |
-| a1-g04    | _, _, _, _ |
-| a1-g05    | _, _, _, _ |
-| a1-g06    | _, _, _, _ |
-| a1-g07    | _, _, _, _ |
-| a1-g08    | _, _, _, _ |
-| a1-g09    | _, _, _, _ |
-| a1-g10    | _, _, _, _ |
-| a1-g11    | _, _, _, _ |
-| a1-g12    | _, _, _, _ |
-| a1-g13    | _, _, _, _ |
-| a1-g14    | _, _, _, _ |
-| a1-g15    | _, _, _, _ |
+| a1-g01    | Omnia Hamed, Mona Amasha, Rawan Ali, Amal Mohamed |
+| a1-g02    | Nadeen Adel, Maram Ahmed, Rawan Mustafa, Nour Osama |
+| a1-g03    | Salma Barakat, Sama Abdo, Farida Ibrahim, Arwa Ismail |
+| a1-g04    | Marwa Waheed, Aya Hussein, Rghdan Nezar, Hoda Elsayed, Mahmoud Shawky |
+| a1-g05    | Hassan Mohamed, Omar Wael, Samah Maged, Luji Alhedodi, Amr Essam |
+| a1-g06    | Shahd Khaled, Mariam Mohamed, Omar Mahmoud, Abdelaziz, Fatma Ragab |
+| a1-g07    | Sara Mohamed, Rewan Ibrahim, Menna Hussien, Malak Yasser, Omar Assem |
+| a1-g08    | Mahmoud Attia, Mohamed Adel, Mostafa Mohamed, Youmna Elsayed, Mariam Hesham |
+| a1-g09    | Haneen Mahmoud, Shams Hassan, Rawan Hany, Aml Elsayed, Rozalenda |
+| a1-g10    | Yasmin Khaled, Hader Mohsen, Radwa Alaa, Omar Mohamed, Al Hassan |
+| a1-g11    | Amira Hany, Hayah Ouf, Basmala, Nour Mostafa |
+| a1-g12    | Saif, Ahmed Mustafa, Momen, Marwan Mohamed, Youssef Hassan |
+| a1-g13    | Mohamed Ali, Karim Ahmed, Shady, Ahmed Adel, Omar Rafaat |
+| a1-g14    | Youssef Anwar, Mahmoud Zaiady, Abdellatif, Abdelrahman Fayez, Abdelrahman Mostafa |
+| a1-g15    | Maisan, Nada Saad, Habiba Ali, Jana Wael, Lina |
 
 **Notes:**
 - Group ID = the folder name each group uses under `submissions/a1-mon-thu/`.
