@@ -10,11 +10,13 @@ Mentors: copy this file into the group's project folder as `<group-id>_qa-review
 
 ## 1. Deliverable checklist
 
-Copy the deliverables list from the project brief and check each one off:
+Work through the numbered points in that project's `SUBMISSION_CRITERIA.md` §2 (e.g. `01-ml-project/SUBMISSION_CRITERIA.md`) — that file is the agreed definition of "complete," and the group was told to build against it. Copy its points here and check each one off:
 
-- [ ] Deliverable 1 — _
-- [ ] Deliverable 2 — _
-- [ ] Deliverable 3 — _
+- [ ] Point 1 — _
+- [ ] Point 2 — _
+- [ ] Point 3 — _
+
+Also check the "Not accepted" notes under each point — those are the specific failure modes to look for.
 
 ## 2. Runs cleanly?
 

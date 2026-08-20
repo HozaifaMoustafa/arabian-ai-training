@@ -2,6 +2,14 @@
 
 Both cohorts share this repository. Submissions are **per group**, organized by cohort. Follow this exactly so pulls and pushes stay conflict-free across ~20 groups.
 
+> ### First, read your project's criteria file
+>
+> This guide covers **how** to submit — naming, folders, git. It is the same for every project.
+>
+> **What** to submit is defined per project, in a `SUBMISSION_CRITERIA.md` file inside that project's own folder — for Project 1, `01-ml-project/SUBMISSION_CRITERIA.md`. Every project released in this repo comes with one. It lists the required sections point by point, what you are free to decide yourselves, what gets a submission returned as "Needs revision", and a final self-check list.
+>
+> That file is exactly what your assigned mentor reviews you against. Read it **before you start working**, and run its §7 self-check before you push.
+
 ## 1. Folder and file naming
 
 ```
@@ -64,6 +72,9 @@ After you push, a mentor reviews your submission before the instructor does — 
 
 ## 6. Checklist before you push
 
+This is the generic, every-project checklist. Your project's `SUBMISSION_CRITERIA.md` has a longer, project-specific one in its §7 — run that one too.
+
+- [ ] Every required point in the project's `SUBMISSION_CRITERIA.md` §2 is present as a labelled section
 - [ ] Notebook is in `submissions/<cohort>/<group-id>/<project-folder-name>/`, correctly named
 - [ ] Notebook runs top-to-bottom without errors (Restart & Run All)
 - [ ] All deliverables the brief asks for are present

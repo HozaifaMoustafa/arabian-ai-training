@@ -13,14 +13,17 @@ This track runs two cohorts out of the same repo:
 | **A1** | Monday & Thursday | ~60 students, groups of 3–5 | Rotating live spotlight discussion (see below) |
 | **A3** | Tuesday & Saturday | 18 students, groups of 3–4 | On-site, full-round live discussion |
 
-Work is submitted **per group**, not per individual — see `SUBMISSION_GUIDE.md` for exact rules.
+Work is submitted **per group**, not per individual — see `SUBMISSION_GUIDE.md` for exact rules, and each project's own `SUBMISSION_CRITERIA.md` for what that project must contain.
 
 ## What's in here
 
 ```
 arabian-ai-training/
-├── 01-ml-project/                    ← Project 1 brief + dataset
-├── 02-.../                           ← Project 2, added when released
+├── 01-ml-project/
+│   ├── Customer_Segmentation_Project_Brief.docx
+│   ├── retail_transactions_segmentation.csv
+│   └── SUBMISSION_CRITERIA.md         ← what a complete submission for THIS project must contain
+├── 02-.../                           ← Project 2, added when released (with its own SUBMISSION_CRITERIA.md)
 ├── rosters/
 │   ├── a1-roster.md                  ← A1 group membership
 │   └── a3-roster.md                  ← A3 group membership
@@ -31,7 +34,8 @@ arabian-ai-training/
 │   ├── a1-mentor-rotation.md         ← which mentor QAs which A1 groups, per project
 │   └── a3-mentor-rotation.md         ← which mentor QAs which A3 groups, per project
 ├── templates/
-│   └── QA_REVIEW_TEMPLATE.md         ← mentors copy this into each group's folder
+│   ├── QA_REVIEW_TEMPLATE.md         ← mentors copy this into each group's folder
+│   └── SUBMISSION_CRITERIA_TEMPLATE.md  ← instructor copies this into each new project folder
 ├── submissions/
 │   ├── a1-mon-thu/
 │   │   ├── a1-g01/
@@ -73,7 +77,16 @@ git pull origin main
 
 ## Submitting your work
 
-See `SUBMISSION_GUIDE.md` for the full naming convention and git workflow. Short version: work only inside your group's own folder under `submissions/<cohort>/<group-id>/`, commit, pull, then push.
+Two files govern every submission, and they answer different questions:
+
+| File | Question it answers |
+|---|---|
+| `SUBMISSION_GUIDE.md` (repo root) | **How** to submit — folder layout, file naming, the git workflow. Same for every project. |
+| `<project-folder>/SUBMISSION_CRITERIA.md` | **What** to submit for that specific project — required sections point by point, what you may decide yourselves, what gets returned as "Needs revision", and the final self-check. |
+
+**Every project released in this repo ships with its own `SUBMISSION_CRITERIA.md` inside its project folder.** Read it before you start working — it is the exact checklist your assigned mentor reviews you against, so there should be no surprises about what "done" means. For Project 1 that file is `01-ml-project/SUBMISSION_CRITERIA.md`.
+
+Short version of the workflow: work only inside your group's own folder under `submissions/<cohort>/<group-id>/`, commit, pull, then push.
 
 ## Discussion sessions
 
