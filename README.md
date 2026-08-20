@@ -19,6 +19,7 @@ Work is submitted **per group**, not per individual — see `SUBMISSION_GUIDE.md
 
 ```
 arabian-ai-training/
+├── .github/ISSUE_TEMPLATE/           ← announcement + question templates
 ├── 01-ml-project/
 │   ├── Customer_Segmentation_Project_Brief.docx
 │   ├── retail_transactions_segmentation.csv
@@ -67,9 +68,29 @@ arabian-ai-training/
    ```
    (swap in your actual cohort and group ID)
 
+## Turn on notifications — everyone, once
+
+**Do this on day one.** It is how you find out that a new project was released, a deadline moved, or submission criteria changed — without having to keep checking the repo manually.
+
+1. Open the repo on GitHub: https://github.com/HozaifaMoustafa/arabian-ai-training
+2. Click **Watch** (top right, next to Star).
+3. Choose **All Activity**, then Apply.
+
+GitHub will now email you whenever the instructor posts a course announcement. Make sure the email on your GitHub account is one you actually read, and check your spam folder for the first one — mark it "not spam" so the rest arrive.
+
+Every announcement is an issue in this repo labelled **`announcement`**, so you can also read the full history any time at [Issues → label:announcement](https://github.com/HozaifaMoustafa/arabian-ai-training/issues?q=label%3Aannouncement). Nothing important is announced only in class.
+
+> **Note for the instructor:** push the change to `main` first, then open the announcement issue (**Issues → New issue → 📣 Course announcement**). Opening that issue is what triggers the emails, so it should point at work that is already live. Bare `git push` alone does **not** email anyone.
+
+## Asking questions
+
+Open an issue using the **❓ Question** template — questions about a brief, the submission criteria, or the git workflow get answered once, publicly, where the whole cohort benefits. Check your project's `SUBMISSION_CRITERIA.md` first; §4 and §5 answer most of them.
+
+Anything specific to your group's own submission goes to your assigned mentor instead — see `qa/a1-mentor-rotation.md` or `qa/a3-mentor-rotation.md`.
+
 ## Getting new projects (every session)
 
-Pull before you start work each session, so you have any newly released project folders:
+Even with notifications on, pull before you start work each session so you have any newly released project folders:
 
 ```
 git pull origin main
