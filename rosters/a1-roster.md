@@ -13,7 +13,7 @@
 | a1-g06   | Shahd Khaled, Mariam Mohamed, Omar Mahmoud, Abdelaziz, Fatma Ragab                |
 | a1-g07   | Sara Mohamed, Rewan Ibrahim, Menna Hussien, Malak Yasser, Omar Assem              |
 | a1-g08   | Mahmoud Attia, Mohamed Adel, Mostafa Mohamed, Youmna Elsayed, Mariam Hesham       |
-| a1-g09   | Haneen Mahmoud, Shams Hassan, Rawan Hany, Aml Elsayed, Rozalenda                  |
+| a1-g09   | Sandy Kandil, Shams Hassan, Rawan Hany, Aml Elsayed, Rozalenda                  |
 | a1-g10   | Yasmin Khaled, Hader Mohsen, Radwa Alaa, Omar Mohamed, Al Hassan                  |
 | a1-g11   | Amira Hany, Hayah Ouf, Basmala, Nour Mostafa                                      |
 | a1-g12   | Saif, Ahmed Mustafa, Momen, Marwan Mohamed, Youssef Hassan                        |
