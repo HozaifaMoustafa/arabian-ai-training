@@ -4,7 +4,7 @@ Read this **before you start working**, not the night before the deadline. It te
 
 Every project folder in this repo has its own `SUBMISSION_CRITERIA.md`. The general git and naming rules live in `SUBMISSION_GUIDE.md` — this file is only about *this* project's content.
 
-**Due:** before Session 10. **Submitted per group**, not per person.
+**Due:** before Session 10 — **A3: Sat 29/08/2026**, **A1: Mon 31/08/2026**. That session is also when the discussion round for this project starts. **Submitted per group**, not per person.
 
 ---
 

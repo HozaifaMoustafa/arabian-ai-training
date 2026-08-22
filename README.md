@@ -1,6 +1,8 @@
 # Arabian Academy — AI Engineering Track
 
-This repository is the single source of all course material for the AI Engineering track: project briefs, datasets, group rosters, mentor QA assignments, discussion schedules, and where every group submits their work. New projects are added here as the course progresses — no new links or new repos per project.
+This repository is the single source of all course material for the AI Engineering track: project briefs, datasets, group rosters, mentor QA assignments, discussion schedules, capstone projects built live in session, and where every group submits their work. New projects are added here as the course progresses — no new links or new repos per project.
+
+By the end of the track this repo holds every portfolio project you need: the ones **you** build and submit as a group, and the ones **we build together in session** under `capstone-projects/`.
 
 **Instructor:** Hozaifa Moustafa · hozaifa.dev@gmail.com
 
@@ -25,9 +27,16 @@ arabian-ai-training/
 │   ├── retail_transactions_segmentation.csv
 │   └── SUBMISSION_CRITERIA.md         ← what a complete submission for THIS project must contain
 ├── 02-.../                           ← Project 2, added when released (with its own SUBMISSION_CRITERIA.md)
+├── capstone-projects/                ← built live in session by the instructor — see below
+│   ├── README.md
+│   └── 01-churn-prediction/
+│       ├── Wasla_Telecom_Churn_Project_Brief.pdf
+│       ├── wasla_customer_records.csv
+│       └── <notebook>.ipynb           ← posted here after the live session
 ├── rosters/
 │   ├── a1-roster.md                  ← A1 group membership
-│   └── a3-roster.md                  ← A3 group membership
+│   ├── a3-roster.md                  ← A3 group membership
+│   └── mentors.md                    ← mentor names + conflict-of-interest rule
 ├── discussion/
 │   ├── a1-discussion-schedule.md     ← A1 rotation rule + tracking table
 │   └── a3-discussion-schedule.md     ← A3 full-round schedule
@@ -52,6 +61,22 @@ arabian-ai-training/
 ├── README.md
 └── SUBMISSION_GUIDE.md
 ```
+
+## Two kinds of project in this repo
+
+They live in different folders and work differently — don't mix them up.
+
+| | **Group projects** (`01-ml-project/`, `02-...`) | **Capstone projects** (`capstone-projects/`) |
+|---|---|---|
+| Who builds it | You, in your group, on your own time | The instructor, live with you in the session |
+| Has `SUBMISSION_CRITERIA.md` | Yes | No |
+| You submit it | Yes — into `submissions/<cohort>/<group-id>/` | No |
+| Mentor QA review | Yes | No |
+| What you get | Feedback and a review cycle on your own work | A complete, worked reference project for your portfolio |
+
+**Capstone projects** are the ones we build together on screen during the session. Each folder holds the client brief and the dataset up front, and the **notebook is pushed here after the live session** — so you can follow along live without racing to copy code, then pull the finished notebook afterwards and re-read it at your own pace.
+
+The point is that by the end of the track this repo contains a full set of portfolio projects: the ones you built yourselves and were reviewed on, plus the ones built with you end to end. Both are yours to show. See `capstone-projects/README.md` for the current list.
 
 ## One-time setup (per group)
 
@@ -96,6 +121,8 @@ Even with notifications on, pull before you start work each session so you have 
 git pull origin main
 ```
 
+Pull **after** a session too — that's when the notebook for a capstone project we built together gets pushed.
+
 ## Submitting your work
 
 Two files govern every submission, and they answer different questions:
@@ -116,7 +143,11 @@ Short version of the workflow: work only inside your group's own folder under `s
 
 ## Mentors & QA
 
+The four mentors are **Ahmed Salama, Ammar Gomaa, Adham Ahmed and Youssef Anwar** — see `rosters/mentors.md`.
+
 Mentors act as a first-pass QA layer before the instructor's final review. Each project, every group is assigned a mentor (rotating — see `qa/a1-mentor-rotation.md` and `qa/a3-mentor-rotation.md`) who reviews the submission using `templates/QA_REVIEW_TEMPLATE.md` and saves it as `<group-id>_qa-review.md` in the group's project folder.
+
+Two of the mentors are also students in the track (Ahmed in `a3-g01`, Youssef in `a1-g14`). **Neither reviews their own group** — the rotation tables are built so those pairings never come up, so just follow the table.
 
 The flow is: **group submits → assigned mentor reviews and marks Approved or Needs revision → group fixes if needed → instructor does the final review**, focusing mainly on submissions mentors have already approved. This keeps the instructor's review load manageable given the A1 cohort's size.
 
