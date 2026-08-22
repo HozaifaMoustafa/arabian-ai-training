@@ -30,9 +30,11 @@ Review load over the four projects: Youssef 16 groups, Ammar 15, Adham 15, Ahmed
 
 ## Workflow
 
-1. Group submits (pushes notebook) before the project deadline.
-2. The mentor assigned to that group's batch this project reviews it using `templates/QA_REVIEW_TEMPLATE.md`, saved as `<group-id>_qa-review.md` in the group's project folder.
-3. If "Needs revision," the group fixes and re-pushes; mentor re-checks.
+1. Group pushes their working notebook by the **QA cutoff** — Project 1: **Fri 28/08/2026**.
+2. The mentor assigned to that group's batch reviews it using `templates/QA_REVIEW_TEMPLATE.md`, saved as `<group-id>_qa-review.md` in the group's project folder. **Post all reviews by the review deadline** — Project 1: **Sun 30/08/2026**. Review whatever is in the repo at the cutoff; if a group pushed nothing, mark it and move on.
+3. If "Needs revision," the group fixes and re-pushes before the **final deadline** (Project 1: Mon 31/08/2026); mentor re-checks.
 4. Once "Approved," the instructor does the final review — only approved submissions need a full instructor pass, which is the point of this step.
+
+All four mentors work the same window (~4 groups each), regardless of when their batch is spotlighted — see `discussion/a1-discussion-schedule.md`.
 
 Capstone projects under `capstone-projects/` are built live by the instructor and are **not** reviewed here — there is nothing submitted for them.

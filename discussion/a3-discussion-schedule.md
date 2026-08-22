@@ -35,7 +35,15 @@ Projects 2–4 assume the same 4-session (2-week) cycle as A1, so both cohorts s
 
 ## Mentor QA timing
 
-Because every A3 group presents every cycle, mentor reviews must be committed **before the discussion session** — for Project 1 that means before **Sat 29/08/2026**. Mentor-to-batch assignments are in `qa/a3-mentor-rotation.md`; for Project 1 that is Ammar Gomaa on Batch A (`a3-g01`–`a3-g03`) and Ahmed Salama on Batch B (`a3-g04`, `a3-g05`).
+Every A3 group presents every cycle, so reviews have to land before the session — in the gap between the QA cutoff and the final deadline.
+
+| | Project 1 | Rule for later projects |
+|---|---|---|
+| **QA cutoff** — groups push their working version | Wed 26/08/2026 | 3 days before the final deadline |
+| **Mentor reviews posted** | Fri 28/08/2026 | 1 day before the final deadline |
+| **Final deadline + discussion** | Sat 29/08/2026 (S10) | the project's discussion session |
+
+For Project 1 that is **Ammar Gomaa** on Batch A (`a3-g01`–`a3-g03`, 3 reviews) and **Ahmed Salama** on Batch B (`a3-g04`, `a3-g05`, 2 reviews). Adham and Youssef are off A3 duty this project. Full assignments in `qa/a3-mentor-rotation.md`.
 
 Note that Ahmed Salama presents with `a3-g01` and reviews Batch B only — he never reviews his own group.
 

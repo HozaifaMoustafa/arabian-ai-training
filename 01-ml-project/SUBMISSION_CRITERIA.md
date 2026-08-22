@@ -4,7 +4,15 @@ Read this **before you start working**, not the night before the deadline. It te
 
 Every project folder in this repo has its own `SUBMISSION_CRITERIA.md`. The general git and naming rules live in `SUBMISSION_GUIDE.md` — this file is only about *this* project's content.
 
-**Due:** before Session 10 — **A3: Sat 29/08/2026**, **A1: Mon 31/08/2026**. That session is also when the discussion round for this project starts. **Submitted per group**, not per person.
+**Submitted per group**, not per person. There are three dates — see `SUBMISSION_GUIDE.md` §3 for why:
+
+| | A3 (Tue/Sat) | A1 (Mon/Thu) |
+|---|---|---|
+| **QA cutoff** — push your best working version for mentor review | **Wed 26/08/2026** | **Fri 28/08/2026** |
+| **Mentor review posted** | Fri 28/08/2026 | Sun 30/08/2026 |
+| **Final deadline** — fixes pushed; this is what gets graded | **Sat 29/08/2026** (Session 10) | **Mon 31/08/2026** (Session 10) |
+
+Session 10 is also when the discussion round for this project starts. A3 groups all present that session; A1 groups present across S10–S13 — check `discussion/a1-discussion-schedule.md` for your slot.
 
 ---
 

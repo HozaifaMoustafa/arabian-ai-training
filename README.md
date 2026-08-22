@@ -149,7 +149,9 @@ Mentors act as a first-pass QA layer before the instructor's final review. Each 
 
 Two of the mentors are also students in the track (Ahmed in `a3-g01`, Youssef in `a1-g14`). **Neither reviews their own group** — the rotation tables are built so those pairings never come up, so just follow the table.
 
-The flow is: **group submits → assigned mentor reviews and marks Approved or Needs revision → group fixes if needed → instructor does the final review**, focusing mainly on submissions mentors have already approved. This keeps the instructor's review load manageable given the A1 cohort's size.
+The flow is: **group pushes by the QA cutoff → assigned mentor reviews and marks Approved or Needs revision → group fixes before the final deadline → instructor does the final review**, focusing mainly on submissions mentors have already approved. This keeps the instructor's review load manageable given the A1 cohort's size.
+
+That is why every project has **two** dates and not one — a QA cutoff three days early so the review can actually reach you, and the real deadline. See `SUBMISSION_GUIDE.md` §3. For Project 1: A3 pushes by **Wed 26/08**, A1 by **Fri 28/08**.
 
 ## Ground rules
 

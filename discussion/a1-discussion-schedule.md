@@ -51,7 +51,17 @@ The queue resets to `a1-g01` at the start of every project, so a group's slot po
 
 ## Mentor QA timing
 
-A group's mentor review should be committed **before that group's spotlight session**, so the feedback can shape the presentation. Mentor-to-batch assignments are in `qa/a1-mentor-rotation.md`.
+Reviews happen in the gap between the QA cutoff and the final deadline, so every group can act on the feedback before it is graded — not after.
+
+| | Project 1 | Rule for later projects |
+|---|---|---|
+| **QA cutoff** — groups push their working version | Fri 28/08/2026 | 3 days before the final deadline |
+| **Mentor reviews posted** — all 15 groups | Sun 30/08/2026 | 1 day before the final deadline |
+| **Final deadline** — fixes pushed | Mon 31/08/2026 (S10) | the project's first discussion session |
+
+All four mentors review in the same window, roughly 4 groups each, regardless of when their batch is spotlighted — a Batch 4 group presenting at S13 still gets its review by 30/08, because it still has to hit the same final deadline. The staggered spotlight below is presentation order only, not review order.
+
+Mentor-to-batch assignments are in `qa/a1-mentor-rotation.md`.
 
 ## Tracking table (fill in as sessions happen)
 

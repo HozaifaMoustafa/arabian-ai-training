@@ -28,6 +28,8 @@ Every mentor is on A3 duty twice across the four projects. Because Ahmed occupie
 
 ## Workflow
 
-Same as A1: group submits → assigned mentor reviews using `templates/QA_REVIEW_TEMPLATE.md` (saved as `<group-id>_qa-review.md`) → group revises if needed → instructor does final review only once approved. Since A3 also has live discussion for every group, mentors should aim to complete their QA review **before** the discussion session so feedback can inform the presentation.
+Same shape as A1: group pushes by the QA cutoff → assigned mentor reviews using `templates/QA_REVIEW_TEMPLATE.md` (saved as `<group-id>_qa-review.md`) → group revises before the final deadline → instructor does final review only once approved.
+
+Project 1 dates — **QA cutoff Wed 26/08/2026 · reviews posted by Fri 28/08/2026 · final deadline and discussion Sat 29/08/2026**. Since every A3 group presents every cycle, that review has to be up before the session so the feedback can shape the presentation. Review whatever is in the repo at the cutoff; if a group pushed nothing, mark it and move on. See `discussion/a3-discussion-schedule.md`.
 
 Capstone projects under `capstone-projects/` are built live by the instructor and are **not** reviewed here — there is nothing submitted for them.

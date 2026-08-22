@@ -54,9 +54,19 @@ The `git pull` right before pushing matters — if another group pushed in the m
 
 **If Git reports a conflict anyway:** stop, don't force-push. It almost always means a file outside your own group's folder was touched by mistake — check `git status`, undo anything outside your folder, and try again.
 
-## 3. Deadlines
+## 3. Deadlines — there are two
 
-Each project brief states its own due date. Submitting means: your group's notebook is committed and pushed to `submissions/<cohort>/<group-id>/<project-folder>/` before that deadline.
+Every project has a **QA cutoff** and a **final deadline**. They exist so mentor feedback reaches you *before* you present, not after.
+
+| | When | What it means |
+|---|---|---|
+| **QA cutoff** | 3 days before the project's first discussion session | Push your best working version. This is the version your mentor reviews. It does not have to be perfect. |
+| **Mentor review posted** | 1 day before the discussion session | Your mentor commits `<group-id>_qa-review.md` next to your notebook, marked Approved or Needs revision. |
+| **Final deadline** | the discussion session itself | Fix anything the review flagged, push again. This version is what the instructor grades and what you present. |
+
+**Missing the QA cutoff doesn't fail you — it just costs you the review.** Your mentor reviews what is in the repo at the cutoff; if nothing is there, you go into the discussion with no feedback and the instructor sees your work cold. Push something.
+
+Submitting means: your group's notebook is committed and pushed to `submissions/<cohort>/<group-id>/<project-folder>/` before the relevant date. Each project's `SUBMISSION_CRITERIA.md` states its own three dates.
 
 ## 4. Discussion sessions
 
@@ -65,7 +75,7 @@ Each project brief states its own due date. Submitting means: your group's noteb
 
 ## 5. Mentor QA review (before instructor review)
 
-After you push, a mentor reviews your submission before the instructor does — see `qa/a1-mentor-rotation.md` or `qa/a3-mentor-rotation.md` for who's assigned to your group this project. The mentor fills out `templates/QA_REVIEW_TEMPLATE.md` and commits it as `<group-id>_qa-review.md` in your project folder.
+After the **QA cutoff** (§3), a mentor reviews whatever you have pushed — before the instructor sees it, and before you present. See `qa/a1-mentor-rotation.md` or `qa/a3-mentor-rotation.md` for who's assigned to your group this project. The mentor fills out `templates/QA_REVIEW_TEMPLATE.md` and commits it as `<group-id>_qa-review.md` in your project folder.
 
 - **Approved:** your submission moves to the instructor's final review as-is.
 - **Needs revision:** the mentor's notes will say exactly what to fix. Update your notebook, commit, pull, push again, and the mentor re-checks. Don't wait for the instructor to catch issues the mentor already flagged — treat mentor feedback as required, not optional.
