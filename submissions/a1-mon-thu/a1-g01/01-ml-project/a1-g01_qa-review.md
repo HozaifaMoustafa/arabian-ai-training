@@ -12,12 +12,12 @@ Mentors: copy this file into the group's project folder as `<group-id>_qa-review
 
 Work through the numbered points in that project's `SUBMISSION_CRITERIA.md` §2 (e.g. `01-ml-project/SUBMISSION_CRITERIA.md`) — that file is the agreed definition of "complete," and the group was told to build against it. Copy its points here and check each one off:
 
-- [ ] Point 1 — RFM feature table built from the raw transactions
-- [ ] Point 2 — Features scaled before clustering
-- [ ] Point 3 — Choice of k justified with evidence
-- [ ] Point 4 — K-Means fitted with your chosen k
-- [ ] Point 5 — PCA visualization of the clusters
-- [ ] Point 6 — Named personas grounded in the numbers
+- [X] Point 1 — RFM feature table built from the raw transactions
+- [X] Point 2 — Features scaled before clustering
+- [X] Point 3 — Choice of k justified with evidence
+- [X] Point 4 — K-Means fitted with your chosen k
+- [X] Point 5 — PCA visualization of the clusters
+- [X] Point 6 — Named personas grounded in the numbers
 
 Also check the "Not accepted" notes under each point — those are the specific failure modes to look for.
 
@@ -42,7 +42,7 @@ Is the notebook/report readable — labeled sections, explained reasoning, not j
 
 ## 5. Overall status
 
-- [ ] ✅ **Approved** — ready for instructor's final review
+- [X] ✅ **Approved** — ready for instructor's final review
 - [ ] 🔁 **Needs revision** — see notes below, group should fix and re-push before instructor review
 
 ## 6. Revision notes to the group (if applicable)
