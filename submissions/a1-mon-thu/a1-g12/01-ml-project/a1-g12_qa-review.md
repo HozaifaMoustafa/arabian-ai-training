@@ -42,8 +42,8 @@ Is the notebook/report readable — labeled sections, explained reasoning, not j
 
 ## 5. Overall status
 
-- [ ] ✅ **Approved** — ready for instructor's final review
-- [X] 🔁 **Needs revision** — see notes below, group should fix and re-push before instructor review
+- [X] ✅ **Approved** — ready for instructor's final review
+- [ ] 🔁 **Needs revision** — see notes below, group should fix and re-push before instructor review
 
 ## 6. Revision notes to the group (if applicable)
 
