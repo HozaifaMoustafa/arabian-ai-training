@@ -38,7 +38,7 @@ Does the methodology match what the brief asked for, and do the results make sen
 
 Is the notebook/report readable — labeled sections, explained reasoning, not just code with no narrative?
 
-**Notes:** the notebook is readable but the sections doesn't labeled and the explained reason is not a lot in the notebook.
+**Notes:** the notebook is readable and labeled sections, explained reasoning are cleary too.
 
 ## 5. Overall status
 
@@ -47,4 +47,4 @@ Is the notebook/report readable — labeled sections, explained reasoning, not j
 
 ## 6. Revision notes to the group (if applicable)
 
-_first you didn't say the reference data you used, second you need to label each point with markdown, third add some explain for you decision (for the persona you make its good)_
+_What exactly needs to change, and why._
