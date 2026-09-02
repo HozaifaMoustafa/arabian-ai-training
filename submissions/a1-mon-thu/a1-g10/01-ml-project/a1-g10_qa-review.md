@@ -1,4 +1,4 @@
-# QA Review a1-g01 <group-id> 01-ml-project <project-folder-name>
+# QA Review a1-g10 <group-id> 01-ml-project <project-folder-name>
 
 Mentors: copy this file into the group's project folder as `<group-id>_qa-review.md`, fill it in, and commit it alongside your review. This sits between the group's submission and the instructor's final review, so keep it honest and specific — the instructor relies on this instead of re-checking everything from scratch.
 
