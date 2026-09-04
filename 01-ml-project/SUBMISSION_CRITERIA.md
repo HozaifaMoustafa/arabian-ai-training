@@ -12,7 +12,9 @@ Every project folder in this repo has its own `SUBMISSION_CRITERIA.md`. The gene
 | **Mentor review posted** | Fri 28/08/2026 | Sun 30/08/2026 |
 | **Final deadline** — fixes pushed; this is what gets graded | **Sat 29/08/2026** (Session 10) | **Mon 31/08/2026** (Session 10) |
 
-Session 10 is also when the discussion round for this project starts. A3 groups all present that session; A1 groups present across S10–S13 — check `discussion/a1-discussion-schedule.md` for your slot.
+Session 10 is when the discussion round for this project starts. A3 groups all present that session; A1 groups are split across a two-session block — check `discussion/a1-discussion-schedule.md` for your slot.
+
+> **Project 1 update — 04/09/2026.** Instructor final reviews are now posted for all 20 groups as `<group-id>_final-review.md`. Groups marked 🔁 Revise or ⛔ Not submitted have a shared catch-up deadline of **Mon 07/09/2026**. See §6 and your cohort's discussion schedule.
 
 ---
 
@@ -22,8 +24,14 @@ Exactly these files, inside your own group's folder:
 
 ```
 submissions/<cohort>/<group-id>/01-ml-project/
-├── <group-id>_01-ml-project.ipynb      ← required, one notebook
-└── <group-id>_recap.md                 ← A1 groups only, and only if you are NOT spotlighted this session
+└── <group-id>_01-ml-project.ipynb      ← required, one notebook — this is the whole submission
+```
+
+Two review files appear in this folder later. You do not create them:
+
+```
+├── <group-id>_qa-review.md             ← your mentor writes this
+└── <group-id>_final-review.md          ← the instructor writes this
 ```
 
 Example for A1 group 7: `submissions/a1-mon-thu/a1-g07/01-ml-project/a1-g07_01-ml-project.ipynb`
@@ -90,7 +98,7 @@ Your notebook must contain all six points below, each as a **labelled markdown s
 
 - **Runs top to bottom.** Restart & Run All must complete with no errors, and the outputs must be saved in the notebook you commit. A notebook your mentor cannot execute is not a submission.
 - **Narrative, not just code.** Markdown cells explaining what each section does and why. A wall of unexplained code fails the Clarity check in the QA review.
-- **A1 groups not in this session's spotlight:** add `<group-id>_recap.md` — 4–6 sentences covering what you built, your key decision or result, and one open question. Check `discussion/a1-discussion-schedule.md` to see whether you are spotlighted. A3 groups all present live, so no recap is needed.
+- **Every group presents live.** Both cohorts now run a discussion block in which all groups get a slot, so no written recap is required. Check `discussion/a1-discussion-schedule.md` or `discussion/a3-discussion-schedule.md` for your session.
 
 ---
 
@@ -122,7 +130,19 @@ These are genuinely your call. You will not lose marks for the choice itself —
 
 ## 6. How it's judged
 
-Your mentor reviews against this file using `templates/QA_REVIEW_TEMPLATE.md`, marks **Approved** or **Needs revision**, and commits the review as `<group-id>_qa-review.md` next to your notebook. Approved submissions move on to the instructor's final review. "Needs revision" means: fix what the notes say, commit, pull, push again — treat it as required, not optional.
+There are two review stages, and you get a file from each.
+
+**1 — Mentor QA.** Your mentor reviews against this file using `templates/QA_REVIEW_TEMPLATE.md`, marks **Approved** or **Needs revision**, and commits the review as `<group-id>_qa-review.md` next to your notebook. "Needs revision" means: fix what the notes say, commit, pull, push again — treat it as required, not optional.
+
+**2 — Instructor final review.** The instructor then reviews using `templates/FINAL_REVIEW_TEMPLATE.md` and commits `<group-id>_final-review.md` next to your notebook. **Every group gets one**, whatever the mentor stage concluded and even if nothing was submitted — this file is also how a group is told its delivery is missing. Its outcome is one of:
+
+| Outcome | Meaning |
+|---|---|
+| ✅ **Accepted** | Graded and closed. No further action. |
+| 🔁 **Revise by \<date\>** | Specific fixes listed; re-push before the stated catch-up deadline. |
+| ⛔ **Not submitted** | Nothing in the repo. Deliver by the catch-up deadline or the project is recorded as missed. |
+
+Questions on a final review go to the instructor directly — the mentor's stage is finished once that file exists.
 
 What earns a strong review, in priority order:
 
@@ -147,6 +167,5 @@ What earns a strong review, in priority order:
 - [ ] Every cluster has a business name plus 2–3 sentences
 - [ ] Restart & Run All passes, outputs saved
 - [ ] Dataset loaded from the repo path, not a local machine path
-- [ ] Recap file added if your A1 group isn't spotlighted this session
 - [ ] Nothing changed outside your group's folder — run `git status` to confirm
 - [ ] `git pull origin main` done before pushing

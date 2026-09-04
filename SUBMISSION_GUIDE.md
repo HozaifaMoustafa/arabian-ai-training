@@ -18,7 +18,6 @@ submissions/
 │   └── <group-id>/                 e.g. a1-g07
 │       ├── 01-ml-project/
 │       │   ├── <group-id>_01-ml-project.ipynb
-│       │   └── <group-id>_recap.md     ← only if not spotlighted that session (A1 only)
 │       └── 02-.../
 └── a3-tue-sat/
     └── <group-id>/                 e.g. a3-g03
@@ -29,7 +28,7 @@ submissions/
 - Your group ID comes from `rosters/a1-roster.md` or `rosters/a3-roster.md` — always use it exactly (lowercase, e.g. `a1-g07`, `a3-g03`).
 - One subfolder per project, matching the project folder name at the repo root (e.g. `01-ml-project`).
 - One notebook per project per group: `<group-id>_<project-folder-name>.ipynb`.
-- A1 groups only: if your group isn't in the live spotlight for a given discussion session, add `<group-id>_recap.md` in that project's folder (see `discussion/a1-discussion-schedule.md`).
+- Two review files land in your folder later — `<group-id>_qa-review.md` from your mentor and `<group-id>_final-review.md` from the instructor. You never create these; leave them alone.
 
 ## 2. Workflow, step by step
 
@@ -70,8 +69,9 @@ Submitting means: your group's notebook is committed and pushed to `submissions/
 
 ## 4. Discussion sessions
 
-- **A3 groups:** every group presents live each project cycle — no recap needed. See `discussion/a3-discussion-schedule.md`.
-- **A1 groups:** check `discussion/a1-discussion-schedule.md` to see if your group is in the spotlight for the upcoming session. If not, submit a short written recap (`<group-id>_recap.md`, 4–6 sentences: what you built, key decision/result, one open question) alongside your notebook.
+- **A3 groups:** every group presents live each project cycle. See `discussion/a3-discussion-schedule.md`.
+- **A1 groups:** every group presents live too — the block runs across two sessions rather than one, so check `discussion/a1-discussion-schedule.md` for which session you are in.
+- No written recap is required in either cohort.
 
 ## 5. Mentor QA review (before instructor review)
 
