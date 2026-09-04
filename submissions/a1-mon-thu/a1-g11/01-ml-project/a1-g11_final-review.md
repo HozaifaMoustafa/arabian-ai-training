@@ -30,3 +30,11 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 ## 5. Discussion slot
 
 **S12 — Mon 07/09.** Your scheduled slot. Worth showing the category breakdown; it is the most useful optional extension anyone added.
+
+## 6. A note to the team
+
+**Amira, Hayah, Basmala, Nour** — labelling your sections "Point 1 … Point 6" made yours one of the fastest notebooks in the cohort to review, and your Arabic write-up quotes the actual RFM figures inside each persona so every claim can be checked against the table. That is confident work.
+
+The product-category breakdown was the best optional extension anyone added, and you kept it cleanly separated from the required six points — which is precisely where groups usually go wrong when they add extras. Four of you, no filler, nothing missing. Well done.
+
+— Hozaifa

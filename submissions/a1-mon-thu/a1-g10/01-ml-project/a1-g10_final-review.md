@@ -35,3 +35,11 @@ Alongside the required fixes above.
 ## 5. Discussion slot
 
 **S13 — Thu 10/09.** If you re-run at k=3, show the room both cluster profiles side by side and say which one you would take to a marketing team.
+
+## 6. A note to the team
+
+**Yasmin, Hader, Radwa, Omar, Al Hassan** — the instinct that got you into trouble is actually a good one, so let me name it clearly. You looked at your data and thought "there is a dormant group in here." You are right — there is. The problem is that k=2 cannot isolate it, so that label landed on 260 ordinary customers instead. Your reasoning was sound; the tool you gave it was too blunt.
+
+You also did something several accepted groups did not: you *printed* your reasoning for k instead of leaving it implied. That is the right habit. Re-run at k=3, split the notebook into sections, and I think you will see the segment you were looking for appear on its own. Bring both profiles to S13 — that is a genuinely interesting thing to show.
+
+— Hozaifa

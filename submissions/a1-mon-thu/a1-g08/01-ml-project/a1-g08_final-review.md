@@ -34,3 +34,11 @@ Alongside the required fixes above.
 ## 5. Discussion slot
 
 **S13 — Thu 10/09.** Present the quartile scoring; it is the most interesting extension anyone attempted.
+
+## 6. A note to the team
+
+**Mahmoud, Mohamed, Amr, Youmna, Mariam** — you went past the brief, and you went past it *correctly*. Layering quartile R/F/M scores on top of K-Means was ambitious, and using `rank(method="first")` to break the Frequency ties in `qcut` is a detail that trips up people with years of pandas behind them. Somebody on this team is reading properly and thinking carefully.
+
+And then it was committed unrun, so none of it renders. That is a genuinely painful way to lose marks on your most ambitious work. One Restart & Run All fixes everything. Please present the quartile scoring at S13 — it is the most interesting extension anyone attempted and I want it seen.
+
+— Hozaifa

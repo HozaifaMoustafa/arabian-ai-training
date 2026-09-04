@@ -30,3 +30,11 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 ## 5. Discussion slot
 
 **S12 — Mon 07/09.** You presented at S11 and are approved. If you are willing, read your k-justification paragraph out — I want the other groups to hear how you framed the trade-off.
+
+## 6. A note to the team
+
+**Hassan, Omar, Samah, Luji, Sandy** — you wrote the best paragraph anyone submitted for this project. You had a result that did not flatter your choice, you said so out loud, and then you argued your case on the business merits anyway. That is intellectual honesty, and it is rarer and worth more than a high silhouette score. I am going to read your justification to the cohort, because it is the standard I want everyone aiming at.
+
+Rename that one cluster from "At-risk" to "Loyal" — your own description already says what it really is — and this is close to exemplary. Genuinely well done.
+
+— Hozaifa

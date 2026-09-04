@@ -36,3 +36,11 @@ Alongside the required fixes above.
 ## 5. Discussion slot
 
 **S13 — Thu 10/09.** Your persona logic is what I want the room to see — it is the fix I am recommending to half the cohort.
+
+## 6. A note to the team
+
+**Shahd, Mariam, Omar, Abdelaziz, Fatma** — your persona logic is the best in the cohort. Full stop. Picking VIP by highest monetary, Dormant by highest recency, and inferring the rest means your naming cannot break no matter how K-Means shuffles its labels. I am recommending your approach to half the class.
+
+Which is exactly why the `.style` problem stings: three of your strongest cells saved as an object reference instead of a table, so the best thinking in the notebook is invisible to a reader. Drop `.style`, move the folder to the right place, re-run, and this becomes a strong submission rather than a returned one. The substance was already there — nobody needs to teach you the hard part.
+
+— Hozaifa

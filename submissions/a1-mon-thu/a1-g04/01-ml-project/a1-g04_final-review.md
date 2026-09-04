@@ -35,3 +35,11 @@ Alongside the required fixes above.
 ## 5. Discussion slot
 
 **S13 — Thu 10/09.** Present the class design — it is genuinely worth the room hearing, and the fixes above do not touch it.
+
+## 6. A note to the team
+
+**Marwa, Aya, Rghdan, Hoda, Mahmoud** — you wrote the most advanced code submitted in either cohort. A proper `CustomerSegmentation` class, state held sensibly, `random_state` threaded through the constructor: this is how the pipeline would actually be written on a team, and nobody else went near it. Whoever pushed for that structure, keep pushing for it.
+
+The irony is that engineering that good got returned over markdown cells. Your explanations already exist — they are sitting in `#` comments inside the class. Move them up into markdown headings and you are finished. Do not let a formatting rule make you think the ambition was misplaced; it wasn't. Please present the class design at S13, the room should see it.
+
+— Hozaifa

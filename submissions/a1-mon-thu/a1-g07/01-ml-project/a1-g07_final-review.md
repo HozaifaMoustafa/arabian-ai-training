@@ -25,3 +25,11 @@ This is the instructor's final review. Your mentor's `a1-g07_qa-review.md` was t
 ## 5. Discussion slot
 
 **S12 — Mon 07/09.** You presented at S11 and are approved. One thing worth raising if you speak again: your 43.6-day "Regular" group is 79% of customers and the biggest revenue lever in the dataset — a sentence on what would move them toward VIP would sharpen it.
+
+## 6. A note to the team
+
+**Sara, Rewan, Menna, Malak, Omar** — the cleanest submission in A1, and I mean that as a real compliment rather than a polite one. Thirteen markdown cells against ten of code, executed in order, personas that match their table, and a path guard so the notebook runs on someone else's machine. There was nothing for me to return, which is rarer than you would think across fifteen groups.
+
+The path check especially — `os.path.exists` before falling back — tells me you thought about the person opening your file, not just about getting your own copy to run. That is a professional habit and you already have it. Push further next project: you have the discipline, now take a bigger swing.
+
+— Hozaifa
