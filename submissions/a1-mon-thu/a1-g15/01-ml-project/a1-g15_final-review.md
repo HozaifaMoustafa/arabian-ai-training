@@ -30,3 +30,11 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 ## 5. Discussion slot
 
 **S12 — Mon 07/09.** Pulled forward from S13. Please show both k profiles — I want the room to see the comparison.
+
+## 6. A note to the team
+
+**Maisan, Nada, Habiba, Jana, Lina** — you were the only group in twenty who profiled more than one value of k before committing to one. You printed the full cluster table at k=2 *and* k=3 and then chose on the evidence. That is what the criteria are actually asking for, and almost nobody did it.
+
+And your persona writing is the most commercially literate in the cohort — "avoid generic discounts that erode margin on customers who already buy without them" is a sentence a real marketing lead would act on. That is not a student answer. Rename the file and this is among the best work submitted. Please show both k profiles at S12.
+
+— Hozaifa

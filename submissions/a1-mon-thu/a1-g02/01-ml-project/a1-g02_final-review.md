@@ -36,3 +36,11 @@ Alongside the required fixes above.
 ## 5. Discussion slot
 
 **S13 — Thu 10/09.** Present after your fixes land. Be ready to say what the second cluster actually is, in one sentence.
+
+## 6. A note to the team
+
+**Nadeen, Maram, Rawan, Nour** — I want to be clear about something, because a "revise" can land harder than it should: your *analysis* is not the problem. You chose k=2, you backed it with a real silhouette score, and you read the elbow alongside it. That is a defensible, evidence-led decision, and plenty of groups who landed on a prettier number did less thinking than you did. Your RFM table is clean and correct.
+
+What went wrong is the last mile — two clusters ended up with the same name, and the fix was a label rather than a rethink. That is a very common trap and an easy one to climb out of. Split the notebook into sections, name each cluster from its own row, and you will see the problem disappear in about twenty minutes. The foundation is already solid. Come to S13 and show us the corrected version.
+
+— Hozaifa

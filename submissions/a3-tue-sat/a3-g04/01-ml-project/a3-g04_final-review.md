@@ -24,3 +24,11 @@ This is the instructor's final review. Your mentor's `a3-g04_qa-review.md` was t
 ## 5. Discussion slot
 
 **S13 — Tue 08/09**, if you deliver by the catch-up deadline.
+
+## 6. A note to the team
+
+**Ramy, Saad, Haitham, Ahmed** — nothing reached the repo, so I have nothing to review yet.
+
+No lecture attached. Three of five A3 groups are in the same position, which tells me something in the setup is not working, and I would genuinely rather fix that than chase four teams. If the brief, the tooling, the timing or repo access is what stopped you, tell me today. Otherwise push what you can by Monday and take your slot on the 8th. Project 1 of four — there is plenty of time to make this a strong track record rather than a bad start.
+
+— Hozaifa

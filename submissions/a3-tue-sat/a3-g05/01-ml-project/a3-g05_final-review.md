@@ -24,3 +24,11 @@ This is the instructor's final review. Your mentor's `a3-g05_qa-review.md` was t
 ## 5. Discussion slot
 
 **S13 — Tue 08/09**, if you deliver by the catch-up deadline.
+
+## 6. A note to the team
+
+**Ahmed, Abdo, Ammar, Ahmed** — nothing reached the repo, so I have nothing to review yet.
+
+Same message as I have given the other two groups in this position, and I mean it the same way: when three of five teams miss, I assume the problem is mine before I assume it is yours. Tell me what got in the way — brief, git, timing, access, anything — and I will deal with it. Push what you have by Monday and present on the 8th. This is the first of four projects and nothing here is unrecoverable.
+
+— Hozaifa

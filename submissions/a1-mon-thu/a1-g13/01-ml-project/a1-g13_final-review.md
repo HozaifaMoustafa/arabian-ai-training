@@ -24,3 +24,11 @@ This is the instructor's final review. Your mentor's `a1-g13_qa-review.md` was t
 ## 5. Discussion slot
 
 **S13 — Thu 10/09**, if you deliver by the catch-up deadline.
+
+## 6. A note to the team
+
+**Mohamed, Karim, Shady, Ahmed, Omar** — I have nothing from you for this project, so I cannot tell you what you did well. I would like to be able to next time.
+
+That is the whole of it — no lecture attached. Whatever got in the way, a missed deadline is a recoverable thing and this is Project 1 of four. If the blocker is repo access, git, the brief, or something going on inside the group, say so today and we will sort it out; if it is simply that time got away from you, push what you can by Monday and take the slot at S13. The rest of the cohort managed this and so can you — but I need to hear from you first.
+
+— Hozaifa

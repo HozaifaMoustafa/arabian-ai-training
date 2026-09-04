@@ -31,3 +31,11 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 ## 5. Discussion slot
 
 **S12 — Mon 07/09.** This is your scheduled slot and you are ready. Be prepared to explain why you built the persona map from the table instead of typing the names in.
+
+## 6. A note to the team
+
+**Shams, Rawan, Aml, Rozalenda** — a strong, complete, professional submission. You built the persona map from the cluster means instead of hardcoding it, gave every persona its own section, and saved twenty-six outputs so a reader can follow the whole argument without running a thing. Your notebook reads as a finished document rather than a working file, and that distinction matters more than people realise.
+
+Four members carrying the same load as the five-person teams, and it does not show anywhere. Tidy the two unrun cells and the brittle `../../../..` path, and keep going exactly as you are.
+
+— Hozaifa
