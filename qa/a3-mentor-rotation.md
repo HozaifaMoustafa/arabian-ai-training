@@ -28,7 +28,7 @@ Every mentor is on A3 duty twice across the four projects. Because Ahmed occupie
 
 ## Workflow
 
-Same shape as A1: group pushes by the QA cutoff → assigned mentor reviews using `templates/QA_REVIEW_TEMPLATE.md` (saved as `<group-id>_qa-review.md`) → group revises before the final deadline → instructor does final review only once approved.
+Same shape as A1: group pushes by the QA cutoff → assigned mentor reviews using `templates/QA_REVIEW_TEMPLATE.md` (saved as `<group-id>_qa-review.md`) → group revises before the final deadline → instructor reviews **every** group using `templates/FINAL_REVIEW_TEMPLATE.md` (saved as `<group-id>_final-review.md`), whatever the mentor stage concluded and even where nothing was submitted.
 
 Project 1 dates — **QA cutoff Wed 26/08/2026 · reviews posted by Fri 28/08/2026 · final deadline and discussion Sat 29/08/2026**. Since every A3 group presents every cycle, that review has to be up before the session so the feedback can shape the presentation. Review whatever is in the repo at the cutoff; if a group pushed nothing, mark it and move on. See `discussion/a3-discussion-schedule.md`.
 

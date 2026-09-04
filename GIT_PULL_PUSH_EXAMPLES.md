@@ -104,17 +104,18 @@ git push origin main
 
 ---
 
-## Example 6 — A1 written recap (when not in the spotlight)
+## Example 6 — pushing a fix after a review
 
-Add the recap file in the same project folder, then commit with your notebook:
+Your mentor's `_qa-review.md` or the instructor's `_final-review.md` asked for changes. Fix them, then:
 
 ```bash
-git add submissions/a1-mon-thu/a1-g07/01-ml-project/a1-g07_recap.md
 git add submissions/a1-mon-thu/a1-g07/01-ml-project/a1-g07_01-ml-project.ipynb
-git commit -m "a1-g07: submit 01-ml-project + recap"
+git commit -m "a1-g07: address review notes on 01-ml-project"
 git pull origin main
 git push origin main
 ```
+
+Do not edit the review files themselves — they are the reviewer's record. Reply to your mentor or the instructor instead.
 
 ---
 

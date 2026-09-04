@@ -26,12 +26,25 @@ A3 meets **Tuesday & Saturday**. Anchor: **Session 10 = Sat 29/08/2026**.
 
 | Project | Discussion session | Date | Groups presenting |
 |---|---|---|---|
-| 01-ml-project | S10 | **Sat 29/08/2026** | a3-g01 → a3-g05 (all) |
+| 01-ml-project | S10 | **Sat 29/08/2026** | a3-g01, a3-g03 presented · g02, g04, g05 submitted nothing |
+| 01-ml-project | S13 *(catch-up)* | **Tue 08/09/2026** | a3-g02, a3-g04, a3-g05 if delivered · a3-g01 short re-present |
 | 02-... | S14 | Sat 12/09/2026 *(provisional)* | a3-g01 → a3-g05 (all) |
 | 03-... | S18 | Sat 26/09/2026 *(provisional)* | a3-g01 → a3-g05 (all) |
 | 04-... | S22 | Sat 10/10/2026 *(provisional)* | a3-g01 → a3-g05 (all) |
 
-Projects 2–4 assume the same 4-session (2-week) cycle as A1, so both cohorts stay on the same project at roughly the same time. Confirm each once its deadline is set.
+### Project 1 catch-up — S13, Tue 08/09/2026
+
+Only two of five groups submitted anything by S10, so Project 1 does not close for A3 until S13.
+
+**Catch-up deadline — Mon 07/09/2026, end of day.** One shared date across both cohorts. Applies to `a3-g02`, `a3-g04` and `a3-g05`, none of which has a folder, branch or pull request in the repo.
+
+- `a3-g02`, `a3-g04`, `a3-g05` — present at S13 if they deliver by the deadline.
+- `a3-g01` — accepted, but takes a short slot to present its **corrected** k-justification. Its write-up claimed the metrics supported k=4 when silhouette and Davies–Bouldin both scored k=4 worst in the sweep.
+- `a3-g03` — accepted and closed out; no further slot. Invited to sit in on S13 to compare k write-ups with a3-g01, since both reached k=4 and only one described the trade-off honestly. That contrast is the most useful teaching point in this project.
+
+S12 (Sat 05/09) is skipped for Project 1 — it falls one day after the reviews were posted, too soon for anyone to act on them.
+
+Projects 2–4 follow the same fortnightly cycle as A1's compressed two-session block, so both cohorts stay on the same project at roughly the same time. Confirm each once its deadline is set.
 
 ## Mentor QA timing
 
@@ -51,7 +64,8 @@ Note that Ahmed Salama presents with `a3-g01` and reviews Batch B only — he ne
 
 | Session date | Project discussed | Groups presented | Notes |
 |---|---|---|---|
-| Sat 29/08/2026 | 01-ml-project | a3-g01 → a3-g05 | _ |
+| Sat 29/08/2026 | 01-ml-project | a3-g01, a3-g03 | Both accepted. g02, g04, g05 submitted nothing — moved to S13 catch-up. |
+| Tue 08/09/2026 | 01-ml-project *(catch-up)* | a3-g02, a3-g04, a3-g05 (if delivered) + a3-g01 | _ |
 
 ## Not discussed here
 

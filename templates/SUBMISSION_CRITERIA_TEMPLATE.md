@@ -15,7 +15,6 @@ Every project folder in this repo has its own `SUBMISSION_CRITERIA.md`. The gene
 ```
 submissions/<cohort>/<group-id>/<project-folder-name>/
 ├── <group-id>_<project-folder-name>.ipynb      ← required, one notebook
-└── <group-id>_recap.md                         ← A1 groups only, and only if NOT spotlighted this session
 ```
 
 - One notebook per group.
@@ -52,7 +51,7 @@ One numbered point per required step from the brief. Each must be a **labelled m
 
 - **Runs top to bottom.** Restart & Run All completes with no errors, outputs saved in the committed notebook.
 - **Narrative, not just code.** Markdown cells explaining what each section does and why.
-- **A1 groups not spotlighted this session:** `<group-id>_recap.md`, 4–6 sentences — what you built, key decision or result, one open question.
+- **Every group presents live** in its cohort's discussion block, so no written recap is required.
 
 ---
 
@@ -92,6 +91,5 @@ Priority order for this project:
 - [ ] Every point in §2 present as a labelled section
 - [ ] _
 - [ ] Restart & Run All passes, outputs saved
-- [ ] Recap file added if your A1 group isn't spotlighted this session
 - [ ] Nothing changed outside your group's folder — run `git status` to confirm
 - [ ] `git pull origin main` done before pushing
