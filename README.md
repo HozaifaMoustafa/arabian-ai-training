@@ -139,7 +139,7 @@ Short version of the workflow: work only inside your group's own folder under `s
 ## Discussion sessions
 
 - **A3** (18 students): every group presents live, every project — see `discussion/a3-discussion-schedule.md`.
-- **A1** (~60 students): only 3–4 groups present live per session on a rotating queue, so everyone gets a slot roughly once per project cycle; groups not spotlighted post a short written recap instead — see `discussion/a1-discussion-schedule.md` for the exact rotation and the tracking table.
+- **A1** (~60 students): all 15 groups present live, split across a two-session block per project so the discussion closes while the work is fresh — see `discussion/a1-discussion-schedule.md` for the split and the tracking table.
 
 ## Mentors & QA
 
