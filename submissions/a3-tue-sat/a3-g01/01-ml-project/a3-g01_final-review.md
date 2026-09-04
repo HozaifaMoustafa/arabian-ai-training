@@ -34,3 +34,11 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 ## 5. Discussion slot
 
 **S13 — Tue 08/09.** Short slot: present the corrected k-justification only. I am pairing it with a3-g03 deliberately — the two of you reached the same decision and wrote it up differently, and that contrast is the most useful thing in this project.
+
+## 6. A note to the team
+
+**Ahmed, Mona, Shrouq** — this is the most polished notebook submitted in either cohort. The data dictionary, the five named quality checks, `log1p` before scaling in the correct order, a third evaluation metric nobody asked for — three people produced more finished work than most teams of five. That is not in question.
+
+I have been direct in §4 about the k write-up, and I want to explain why. You reached a defensible answer and then described the evidence as agreeing with you when it did not. Reviewers notice that faster than a wrong number, and it costs more, because it puts everything *else* you wrote under suspicion. The fix is one honest paragraph — and the fact that your analysis was sound the whole time is what makes it worth fixing rather than worth worrying about. Present the corrected version at S13; that correction will teach the room more than the original would have.
+
+— Hozaifa

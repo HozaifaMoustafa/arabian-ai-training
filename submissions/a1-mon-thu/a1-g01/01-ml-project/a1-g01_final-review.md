@@ -32,3 +32,11 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 ## 5. Discussion slot
 
 **S12 — Mon 07/09.** You already presented at S10 and you are approved, so no second slot is required. Come anyway if you want to speak to the centroid inverse-transform; it is worth two minutes of everyone's time.
+
+## 6. A note to the team
+
+**Omnia, Mona, Rawan, Amal** — this was a genuinely careful piece of work, and the care shows in a place most people never reach. Transforming the centroids back into real money with `inverse_transform` and `expm1` is not in the brief; you did it because you wanted the numbers to *mean* something to a reader, and that instinct is exactly what separates an analyst from someone who runs models. You were also the only group in fifteen who wrote a recap when nobody made you.
+
+Fix the `.style` line so your final table actually shows, and this is a submission you could put in front of a client. Keep that standard.
+
+— Hozaifa

@@ -30,3 +30,11 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 ## 5. Discussion slot
 
 **S12 — Mon 07/09.** Your scheduled slot.
+
+## 6. A note to the team
+
+**Saif, Ahmed, Momen, Marwan, Youssef** — solid, correct, and sensibly built. Wrapping the pipeline in a class with a configurable path shows you were thinking about re-running it rather than just getting through it once, and reporting customer share alongside the cluster means is the kind of small addition that makes a table actually useful to a business reader.
+
+One thing to take into Project 2: eight markdown cells against fourteen of code is the thinnest of the groups I accepted. Your reasoning is good — you are just not writing enough of it down, and in the next project that gap will start costing you. A sentence of intent above each section is all it takes.
+
+— Hozaifa

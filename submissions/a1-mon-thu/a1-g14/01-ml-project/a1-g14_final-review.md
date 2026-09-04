@@ -30,3 +30,11 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 ## 5. Discussion slot
 
 **S12 — Mon 07/09.** Pulled forward from S13 into the compressed session.
+
+## 6. A note to the team
+
+**Youssef, Mahmoud, Abdellatif, Abdelrahman, Abdelrahman** — correct method from end to end, personas that match their numbers, and you reported the customer share alongside the means, which is the instinct of someone thinking about the business rather than only the model. Nineteen outputs saved, nothing wrong underneath.
+
+What is holding this back from being a strong submission rather than a passing one is simply that you did not write it down — three markdown cells across nineteen means I had to infer your six points from the code. You clearly understand the material; let the notebook show it. That single change would move you up a band next project.
+
+— Hozaifa
