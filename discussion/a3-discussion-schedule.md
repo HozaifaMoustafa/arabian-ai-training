@@ -27,22 +27,38 @@ A3 meets **Tuesday & Saturday**. Anchor: **Session 10 = Sat 29/08/2026**.
 | Project | Discussion session | Date | Groups presenting |
 |---|---|---|---|
 | 01-ml-project | S10 | **Sat 29/08/2026** | a3-g01, a3-g03 presented · g02, g04, g05 submitted nothing |
-| 01-ml-project | S13 *(catch-up)* | **Tue 08/09/2026** | a3-g02, a3-g04, a3-g05 if delivered · a3-g01 short re-present |
-| 02-... | S14 | Sat 12/09/2026 *(provisional)* | a3-g01 → a3-g05 (all) |
+| 01-ml-project | S12 | **Sat 05/09/2026** | Held — accepted groups discussed |
+| 01-ml-project | S13 | ~~Tue 08/09/2026~~ | **Not held.** Catch-up moved to S14/S15 |
+| 01-ml-project | S14 *(catch-up)* | **Sat 12/09/2026** | a3-g01 short re-present · a3-g02 |
+| 01-ml-project | S15 *(catch-up)* | **Tue 15/09/2026** | a3-g04, a3-g05 if delivered |
+| 02-... | S14 | Sat 12/09/2026 *(provisional)* | a3-g01 → a3-g05 (all), after the Project 1 catch-up slot |
 | 03-... | S18 | Sat 26/09/2026 *(provisional)* | a3-g01 → a3-g05 (all) |
 | 04-... | S22 | Sat 10/10/2026 *(provisional)* | a3-g01 → a3-g05 (all) |
 
-### Project 1 catch-up — S13, Tue 08/09/2026
+### Project 1 catch-up — S14/S15
 
-Only two of five groups submitted anything by S10, so Project 1 does not close for A3 until S13.
+Only two of five groups submitted anything by S10, so Project 1 does not close for A3 until the catch-up round below.
 
-**Catch-up deadline — Mon 07/09/2026, end of day.** One shared date across both cohorts. Applies to `a3-g02`, `a3-g04` and `a3-g05`, none of which has a folder, branch or pull request in the repo.
+**S12 (Sat 05/09) was used after all** rather than skipped — the accepted groups were discussed. **S13 (Tue 08/09) was not held**, so the catch-up it was carrying moves to S14 and S15.
 
-- `a3-g02`, `a3-g04`, `a3-g05` — present at S13 if they deliver by the deadline.
-- `a3-g01` — accepted, but takes a short slot to present its **corrected** k-justification. Its write-up claimed the metrics supported k=4 when silhouette and Davies–Bouldin both scored k=4 worst in the sweep.
-- `a3-g03` — accepted and closed out; no further slot. Invited to sit in on S13 to compare k write-ups with a3-g01, since both reached k=4 and only one described the trade-off honestly. That contrast is the most useful teaching point in this project.
+**The 07/09 catch-up deadline has passed.** Reviews were re-issued **09/09/2026** against what actually arrived:
 
-S12 (Sat 05/09) is skipped for Project 1 — it falls one day after the reviews were posted, too soon for anyone to act on them.
+| Group | 04/09 | Delivered by 07/09? | 09/09 |
+|---|---|---|---|
+| `a3-g01` | ✅ Accepted, k write-up to correct | Yes — rewritten honestly (PR #36) | ✅ Accepted, note closed |
+| `a3-g02` | ⛔ Not submitted | Yes — full submission, 05/09 | ✅ Accepted |
+| `a3-g04` | ⛔ Not submitted | Yes, but a `.py` saved as `.ipynb`; Points 3 and 6 missing | 🔁 Revise by 13/09 |
+| `a3-g05` | ⛔ Not submitted | **Nothing pushed** | ⛔ Not submitted — deliver by 13/09 |
+
+**Final catch-up deadline — Sun 13/09/2026, end of day.** One shared date across both cohorts, and the last extension on Project 1. Applies to `a3-g04` and `a3-g05`.
+
+**S14 — Sat 12/09** (short opening slot, before the Project 2 block):
+
+- `a3-g01` — the corrected k=4 justification. Its revised markdown cell currently renders as one run-on block because the line breaks were lost when the notebook JSON was hand-edited; that has to be fixed before Saturday.
+- `a3-g02` — the k=2 versus k=3 argument. Their silhouette gap was 0.001 and they broke the tie on business grounds, which is the same move a3-g01 and a3-g03 made from a wider margin.
+- `a3-g03` — accepted and closed out; no slot. Worth sitting in: three groups now reached the same kind of trade-off and wrote it up three different ways, and that contrast is the most useful teaching point in this project.
+
+**S15 — Tue 15/09**, after the 13/09 deadline: `a3-g04` and `a3-g05` if they deliver.
 
 Projects 2–4 follow the same fortnightly cycle as A1's compressed two-session block, so both cohorts stay on the same project at roughly the same time. Confirm each once its deadline is set.
 
@@ -64,8 +80,11 @@ Note that Ahmed Salama presents with `a3-g01` and reviews Batch B only — he ne
 
 | Session date | Project discussed | Groups presented | Notes |
 |---|---|---|---|
-| Sat 29/08/2026 | 01-ml-project | a3-g01, a3-g03 | Both accepted. g02, g04, g05 submitted nothing — moved to S13 catch-up. |
-| Tue 08/09/2026 | 01-ml-project *(catch-up)* | a3-g02, a3-g04, a3-g05 (if delivered) + a3-g01 | _ |
+| Sat 29/08/2026 | 01-ml-project | a3-g01, a3-g03 | Both accepted. g02, g04, g05 submitted nothing — moved to catch-up. |
+| Sat 05/09/2026 | 01-ml-project | Accepted groups | Held. Session used rather than skipped. |
+| Tue 08/09/2026 | 01-ml-project *(catch-up)* | — | **Not held.** Carried to S14/S15. |
+| Sat 12/09/2026 | 01-ml-project *(catch-up)* | a3-g01 (short), a3-g02 | _ |
+| Tue 15/09/2026 | 01-ml-project *(catch-up)* | a3-g04, a3-g05 (if delivered) | Final deadline 13/09. |
 
 ## Not discussed here
 
