@@ -28,13 +28,13 @@ This is the instructor's final review, re-issued after your catch-up push. The 0
 Both items below are carried over from 04/09 unchanged. Neither was addressed in this push.
 
 1. **Still zero markdown cells.** All eighteen cells are code. §2 requires the six points as labelled **markdown** sections and §3 fails "a wall of unexplained code" on the Clarity check. Your `# Point 1 — RFM Analysis` banner comments inside the class are exactly the right content — they are just in the wrong cell type. Cut each one out, insert a markdown cell above the code, paste it in with a `##` heading. Twenty minutes, and no code changes at all. **This is the item that is holding the submission.**
-2. **Still outside your group folder.** The notebook is at `submissions/a1-mon-thu/a1-g04_01-ml-project/a1_g04_01_ml_project.ipynb`. That folder is a sibling of the group folders, not your group folder — which is why your `a1-g04_final-review.md` (this file) sits somewhere your notebook is not. It belongs at:
+2. **Still outside your group folder — and now there are two copies.** Your 06/09 push added `submissions/a1-mon-thu/a1-g04_01-ml-project/a1_g04_01_ml_project.ipynb` without removing the original at `submissions/a1-mon-thu/a1_g04_01_ml_project.ipynb`. Both are byte-identical (blob `55b2c11`), neither is in your group folder, and `submissions/a1-mon-thu/a1-g04/01-ml-project/` currently contains nothing but this review file. Delete **both** and put one copy at:
 
    ```
    submissions/a1-mon-thu/a1-g04/01-ml-project/a1-g04_01-ml-project.ipynb
    ```
 
-   Hyphens, not underscores, and `a1-g04/01-ml-project/` as two folder levels. Delete the `a1-g04_01-ml-project/` folder once the file has moved, so there is only one of them.
+   Hyphens, not underscores, and `a1-g04/01-ml-project/` as two folder levels. Then delete the `a1-g04_01-ml-project/` folder entirely, so only one copy of your notebook exists anywhere in the repo. A `git mv` moves a file; copying and pushing leaves the original behind, which is what happened here.
 
 3. **Add the persona write-ups.** Point 6 asks for 2–3 sentences per persona: who they are and what the business should do *differently* for them. You have the names in `persona_names` and the means table beneath, which is the evidence — but the prose is missing entirely. Three short paragraphs in the markdown cells you are adding for item 1.
 
@@ -60,7 +60,7 @@ And the submission is being returned a second time for the same two things: no m
 
 So let me make the priority unambiguous, in order:
 
-1. Move the file to `submissions/a1-mon-thu/a1-g04/01-ml-project/a1-g04_01-ml-project.ipynb`.
+1. Delete both stray copies and put one at `submissions/a1-mon-thu/a1-g04/01-ml-project/a1-g04_01-ml-project.ipynb`.
 2. Turn your `# Point N —` comments into markdown cells above the code they describe.
 3. Write three short paragraphs, one per persona.
 

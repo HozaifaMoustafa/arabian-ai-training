@@ -35,6 +35,7 @@ Nothing. Accepted.
 Not blocking. Fix before Project 2 opens.
 
 - **You copied `retail_transactions_segmentation.csv` into your submission folder** so that `pd.read_csv("retail_transactions_segmentation.csv")` would resolve. §1 asks you not to: *do not copy the CSV into your submission folder*. The intended fix is the relative path back to the shared file — `../../../../01-ml-project/retail_transactions_segmentation.csv`. `a1-g10` does exactly this if you want to see it. One dataset, one copy; four groups each carrying their own is how the two silently drift apart.
+- **Your push also committed a `FETCH_HEAD` file to the repo root.** That is a git internal, not a file you wrote — it gets created by `git fetch` and should never be committed. §5 returns on *files added or edited outside your own group's folder*, so I am flagging it rather than letting it pass silently; I have removed it myself so it does not reach `main`. It changes nothing about the outcome. The cause is almost always `git add .` from the repo root — use `git add <your folder>` or check `git status` before committing.
 - Your k evidence is printed (`Best K based on silhouette score: 2`, `0.6789`) but not *written*. Point 3 asks for 2–4 sentences on what in the plots led you there. I told you on 04/09 that your k was properly evidenced and I stand by that, so this does not change the outcome — but on Project 2 write the paragraph. The number is the finding; the sentences are the argument.
 
 ## 5. Discussion slot
