@@ -41,7 +41,7 @@ Alongside the required fixes above.
 
 ## 5. Discussion slot
 
-**S14 — Mon 14/09**, short opening slot before the Project 2 block starts, if you deliver by 13/09.
+**Mon 14/09**, short opening slot, if you deliver by 13/09.
 
 ## 6. A note to the team
 

@@ -48,7 +48,7 @@ Alongside the required fixes above.
 
 ## 5. Discussion slot
 
-**S14 — Mon 14/09**, short opening slot before the Project 2 block starts. Present the class design; it is worth the room hearing and none of the fixes above touch it.
+**Mon 14/09**, short opening slot. Present the class design; it is worth the room hearing and none of the fixes above touch it.
 
 ## 6. A note to the team
 
@@ -66,6 +66,6 @@ So let me make the priority unambiguous, in order:
 
 Do those three and you are accepted. Do not touch the class — it is not what is wrong. It would be a genuinely bad outcome for the strongest engineering in the cohort to be recorded as incomplete over formatting, and that is now the only thing on the table. Deadline Sunday 13/09, and it is the last one.
 
-Bring the class design to S14 regardless. The room should see it.
+Bring the class design on Monday 14/09 regardless. The room should see it.
 
 — Hozaifa

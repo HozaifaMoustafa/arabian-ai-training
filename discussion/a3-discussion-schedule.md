@@ -4,42 +4,50 @@ Only 5 groups on-site, so no rotation is needed — every group presents live ea
 
 ## How it works
 
-- The session a project's deadline falls before is that project's discussion session.
-- All 5 groups present in order (`a3-g01` → `a3-g05`), ~7–8 minutes each including Q&A, to fit a single session.
+- The meeting a project's deadline falls before is that project's discussion round.
+- **"S" numbers are curriculum sessions, not meetings.** A session can run across two meetings, or share one with a discussion round. Everything below is keyed on dates.
+- All 5 groups present in order (`a3-g01` → `a3-g05`), ~7–8 minutes each including Q&A, to fit a single meeting.
 - No written recap needed — everyone gets a live slot every time.
 
-## Session calendar
+## Where the cohort actually is
 
-A3 meets **Tuesday & Saturday**. Anchor: **Session 10 = Sat 29/08/2026**.
+**Session numbers are curriculum sessions, not calendar dates** — a session can span two meetings, or share one with a discussion round. This schedule is keyed on **dates**.
 
-| Session | Date | Session | Date |
-|---|---|---|---|
-| S10 | Sat 29/08/2026 | S17 | Tue 22/09/2026 |
-| S11 | Tue 01/09/2026 | S18 | Sat 26/09/2026 |
-| S12 | Sat 05/09/2026 | S19 | Tue 29/09/2026 |
-| S13 | Tue 08/09/2026 | S20 | Sat 03/10/2026 |
-| S14 | Sat 12/09/2026 | S21 | Tue 06/10/2026 |
-| S15 | Tue 15/09/2026 | S22 | Sat 10/10/2026 |
-| S16 | Sat 19/09/2026 | S23 | Tue 13/10/2026 |
+**Both cohorts are currently paused at the end of Session 10.** Sat 05/09 closed S10 out with the Project 1 discussion and a mini project; it was *scheduled* to be S11 but no S11 material was delivered. **Tue 08/09 was not held.**
+
+| Date | What it carries |
+|---|---|
+| Sat 29/08/2026 | S10 · Project 1 discussion — a3-g01, a3-g03 |
+| Tue 01/09/2026 | S10 |
+| Sat 05/09/2026 | **S10 completed** · Project 1 discussion + mini project |
+| Tue 08/09/2026 | *Not held* |
+| **Sat 12/09/2026** | **Full S11** · Project 1 catch-up slot at the top ← next |
+| Tue 15/09/2026 | S12 · Project 1 catch-up slot for the two still outstanding |
+
+**A3 runs ahead of A1 from here.** A3 takes a full S11 on 12/09 and S12 on 15/09; A1 splits S11 across 10/09 and 14/09 and picks up S12 on 17/09, after A3 has had it. That gap is deliberate — A3 is five groups and moves faster.
+
+Remaining A3 meeting dates, unnumbered until the content is assigned: 19/09, 22/09, 26/09, 29/09, 03/10, 06/10, 10/10, 13/10.
 
 ## Schedule
 
-| Project | Discussion session | Date | Groups presenting |
-|---|---|---|---|
-| 01-ml-project | S10 | **Sat 29/08/2026** | a3-g01, a3-g03 presented · g02, g04, g05 submitted nothing |
-| 01-ml-project | S12 | **Sat 05/09/2026** | Held — accepted groups discussed |
-| 01-ml-project | S13 | ~~Tue 08/09/2026~~ | **Not held.** Catch-up moved to S14/S15 |
-| 01-ml-project | S14 *(catch-up)* | **Sat 12/09/2026** | a3-g01 short re-present · a3-g02 |
-| 01-ml-project | S15 *(catch-up)* | **Tue 15/09/2026** | a3-g04, a3-g05 if delivered |
-| 02-... | S14 | Sat 12/09/2026 *(provisional)* | a3-g01 → a3-g05 (all), after the Project 1 catch-up slot |
-| 03-... | S18 | Sat 26/09/2026 *(provisional)* | a3-g01 → a3-g05 (all) |
-| 04-... | S22 | Sat 10/10/2026 *(provisional)* | a3-g01 → a3-g05 (all) |
+| Project | Date | Groups presenting |
+|---|---|---|
+| 01-ml-project | **Sat 29/08/2026** | a3-g01, a3-g03 presented · g02, g04, g05 submitted nothing |
+| 01-ml-project | **Sat 05/09/2026** | Held — accepted groups discussed |
+| 01-ml-project | ~~Tue 08/09/2026~~ | **Not held.** Catch-up moved to 12/09 and 15/09 |
+| 01-ml-project *(catch-up)* | **Sat 12/09/2026** | a3-g01 short re-present · a3-g02 |
+| 01-ml-project *(catch-up)* | **Tue 15/09/2026** | a3-g04, a3-g05 if delivered |
+| 02-... | *set once the deadline is agreed* | a3-g01 → a3-g05 (all) |
+| 03-... | *set once the deadline is agreed* | a3-g01 → a3-g05 (all) |
+| 04-... | *set once the deadline is agreed* | a3-g01 → a3-g05 (all) |
 
-### Project 1 catch-up — S14/S15
+Projects 2–4 dates are deliberately not pinned: the cohort is a session behind the original calendar and now runs ahead of A1, so any date fixed before a deadline is agreed would just need redoing.
 
-Only two of five groups submitted anything by S10, so Project 1 does not close for A3 until the catch-up round below.
+### Project 1 catch-up — 12/09 and 15/09
 
-**S12 (Sat 05/09) was used after all** rather than skipped — the accepted groups were discussed. **S13 (Tue 08/09) was not held**, so the catch-up it was carrying moves to S14 and S15.
+Only two of five groups submitted anything by the 29/08 deadline, so Project 1 does not close for A3 until the catch-up round below.
+
+**Sat 05/09 was used after all** rather than skipped — the accepted groups were discussed, and a mini project closed out Session 10. **Tue 08/09 was not held**, so the catch-up it was carrying moves to 12/09 and 15/09.
 
 **The 07/09 catch-up deadline has passed.** Reviews were re-issued **09/09/2026** against what actually arrived:
 
@@ -52,25 +60,25 @@ Only two of five groups submitted anything by S10, so Project 1 does not close f
 
 **Final catch-up deadline — Sun 13/09/2026, end of day.** One shared date across both cohorts, and the last extension on Project 1. Applies to `a3-g04` and `a3-g05`.
 
-**S14 — Sat 12/09** (short opening slot, before the Project 2 block):
+**Sat 12/09** — short slot at the top of the meeting, before S11 begins:
 
 - `a3-g01` — the corrected k=4 justification. Its revised markdown cell currently renders as one run-on block because the line breaks were lost when the notebook JSON was hand-edited; that has to be fixed before Saturday.
 - `a3-g02` — the k=2 versus k=3 argument. Their silhouette gap was 0.001 and they broke the tie on business grounds, which is the same move a3-g01 and a3-g03 made from a wider margin.
 - `a3-g03` — accepted and closed out; no slot. Worth sitting in: three groups now reached the same kind of trade-off and wrote it up three different ways, and that contrast is the most useful teaching point in this project.
 
-**S15 — Tue 15/09**, after the 13/09 deadline: `a3-g04` and `a3-g05` if they deliver.
+**Tue 15/09** — short slot at the top, after the 13/09 deadline: `a3-g04` and `a3-g05` if they deliver.
 
-Projects 2–4 follow the same fortnightly cycle as A1's compressed two-session block, so both cohorts stay on the same project at roughly the same time. Confirm each once its deadline is set.
+Projects 2–4 follow the same pattern as A1's compressed block. Both cohorts stay on the same *project* even though A3 is now ahead on curriculum sessions — the project deadlines are shared, the session numbers are not.
 
 ## Mentor QA timing
 
-Every A3 group presents every cycle, so reviews have to land before the session — in the gap between the QA cutoff and the final deadline.
+Every A3 group presents every cycle, so reviews have to land before the discussion round — in the gap between the QA cutoff and the final deadline.
 
 | | Project 1 | Rule for later projects |
 |---|---|---|
 | **QA cutoff** — groups push their working version | Wed 26/08/2026 | 3 days before the final deadline |
 | **Mentor reviews posted** | Fri 28/08/2026 | 1 day before the final deadline |
-| **Final deadline + discussion** | Sat 29/08/2026 (S10) | the project's discussion session |
+| **Final deadline + discussion** | Sat 29/08/2026 | the project's discussion meeting |
 
 For Project 1 that is **Ammar Gomaa** on Batch A (`a3-g01`–`a3-g03`, 3 reviews) and **Ahmed Salama** on Batch B (`a3-g04`, `a3-g05`, 2 reviews). Adham and Youssef are off A3 duty this project. Full assignments in `qa/a3-mentor-rotation.md`.
 
@@ -81,8 +89,8 @@ Note that Ahmed Salama presents with `a3-g01` and reviews Batch B only — he ne
 | Session date | Project discussed | Groups presented | Notes |
 |---|---|---|---|
 | Sat 29/08/2026 | 01-ml-project | a3-g01, a3-g03 | Both accepted. g02, g04, g05 submitted nothing — moved to catch-up. |
-| Sat 05/09/2026 | 01-ml-project | Accepted groups | Held. Session used rather than skipped. |
-| Tue 08/09/2026 | 01-ml-project *(catch-up)* | — | **Not held.** Carried to S14/S15. |
+| Sat 05/09/2026 | 01-ml-project | Accepted groups | Held. Closed S10 out: discussion + mini project. |
+| Tue 08/09/2026 | — | — | **Not held.** Carried to 12/09 and 15/09. |
 | Sat 12/09/2026 | 01-ml-project *(catch-up)* | a3-g01 (short), a3-g02 | _ |
 | Tue 15/09/2026 | 01-ml-project *(catch-up)* | a3-g04, a3-g05 (if delivered) | Final deadline 13/09. |
 

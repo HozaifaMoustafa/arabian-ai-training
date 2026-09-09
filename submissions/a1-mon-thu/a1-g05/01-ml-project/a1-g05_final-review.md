@@ -29,7 +29,7 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 
 ## 5. Discussion slot
 
-**S12 — Mon 07/09.** You presented at S11 and are approved. If you are willing, read your k-justification paragraph out — I want the other groups to hear how you framed the trade-off.
+**Mon 07/09.** You presented on 03/09 and are approved. If you are willing, read your k-justification paragraph out — I want the other groups to hear how you framed the trade-off.
 
 ## 6. A note to the team
 

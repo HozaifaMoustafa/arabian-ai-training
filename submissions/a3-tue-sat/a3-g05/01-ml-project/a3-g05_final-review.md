@@ -37,7 +37,7 @@ Nothing to review yet.
 
 ## 5. Discussion slot
 
-**S15 — Tue 15/09**, after the 13/09 deadline, if you deliver.
+**Tue 15/09**, after the 13/09 deadline, if you deliver.
 
 ## 6. A note to the team
 

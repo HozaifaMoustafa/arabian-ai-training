@@ -39,7 +39,7 @@ The 04/09 note is closed. One minor item in its place:
 
 ## 5. Discussion slot
 
-**S12 — Mon 07/09. Presented — closed out.** No further slot needed.
+**Mon 07/09. Presented — closed out.** No further slot needed.
 
 ## 6. A note to the team
 

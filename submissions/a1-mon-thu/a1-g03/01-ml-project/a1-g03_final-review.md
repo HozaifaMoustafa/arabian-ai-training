@@ -35,7 +35,7 @@ Not blocking, but both must be done before Project 2 opens.
 
 ## 5. Discussion slot
 
-**S12 — Mon 07/09. Presented — closed out.** You took the slot early, ahead of the S13 re-present round. No further slot needed.
+**Mon 07/09. Presented — closed out.** You took the slot early, ahead of the Thursday re-present round. No further slot needed.
 
 ## 6. A note to the team
 

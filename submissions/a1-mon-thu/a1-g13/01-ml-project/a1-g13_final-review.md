@@ -41,7 +41,7 @@ Not blocking, but all three before Project 2 opens.
 
 ## 5. Discussion slot
 
-**S13 — Thu 10/09.** Present the k justification specifically — the k=2 vs k=3 vs k=4 argument and why you overrode the silhouette peak. Five minutes on that, and skip the rest. Three groups this round wrote k reasoning that described the evidence as agreeing with them when it did not; yours is the version I want them to hear.
+**Thu 10/09.** Present the k justification specifically — the k=2 vs k=3 vs k=4 argument and why you overrode the silhouette peak. Five minutes on that, and skip the rest. Three groups this round wrote k reasoning that described the evidence as agreeing with them when it did not; yours is the version I want them to hear.
 
 ## 6. A note to the team
 
@@ -51,7 +51,7 @@ Here is the part I did not expect. Every group in this project had to choose a k
 
 That is a harder thing to write than a correct answer. It means being comfortable saying the numbers do not fully agree with me and here is why I am choosing anyway — which is precisely what you will be doing in front of stakeholders for the rest of your careers. A group that missed the first deadline entirely produced the most intellectually honest section in twenty submissions.
 
-Three small things in §4 — a data path, a duplicate file, two swapped words. None of them touch the thinking. Fix them before Project 2 and bring the k argument to S13; the room needs to hear it from you rather than from me.
+Three small things in §4 — a data path, a duplicate file, two swapped words. None of them touch the thinking. Fix them before Project 2 and bring the k argument to Thursday; the room needs to hear it from you rather than from me.
 
 Welcome back.
 

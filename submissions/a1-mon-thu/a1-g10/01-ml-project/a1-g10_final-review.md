@@ -38,7 +38,7 @@ None outstanding. Both 04/09 notes were addressed.
 
 ## 5. Discussion slot
 
-**S13 — Thu 10/09.** Show the room the k=2 profile beside the k=3 profile and say, in one sentence, what changed about the business recommendation. You are the clearest example in either cohort of *why* the choice of k is a business decision and not just a plot-reading exercise — that is a five-minute talk that will land.
+**Thu 10/09.** Show the room the k=2 profile beside the k=3 profile and say, in one sentence, what changed about the business recommendation. You are the clearest example in either cohort of *why* the choice of k is a business decision and not just a plot-reading exercise — that is a five-minute talk that will land.
 
 ## 6. A note to the team
 
@@ -48,6 +48,6 @@ Going to k=3 and finding twenty-two genuinely dormant customers sitting exactly 
 
 And you went further than the notes asked. Nobody told you to rewrite the persona assignment to rank across all three RFM dimensions — you did it because `idxmax()` on Monetary alone would misname a high-spending cluster that has gone quiet, and you saw that before it bit you. That is now the most robust naming logic in either cohort, and I will be pointing other groups at it.
 
-From returned to the strongest turnaround in the class in five days. Accepted, with nothing carried forward. Bring both k profiles to S13.
+From returned to the strongest turnaround in the class in five days. Accepted, with nothing carried forward. Bring both k profiles to Thursday.
 
 — Hozaifa

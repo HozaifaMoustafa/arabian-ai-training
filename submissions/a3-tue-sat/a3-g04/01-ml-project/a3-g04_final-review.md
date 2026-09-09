@@ -49,7 +49,7 @@ A working reference for all of this is `submissions/a3-tue-sat/a3-g02/01-ml-proj
 
 ## 5. Discussion slot
 
-**S15 — Tue 15/09**, after the 13/09 deadline. Present the k evidence you are about to build: the two plots, and why you landed where you landed.
+**Tue 15/09**, after the 13/09 deadline. Present the k evidence you are about to build: the two plots, and why you landed where you landed.
 
 ## 6. A note to the team
 

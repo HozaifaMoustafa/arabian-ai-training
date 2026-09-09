@@ -43,7 +43,7 @@ Not blocking. Both before Project 2 opens.
 
 ## 5. Discussion slot
 
-**S14 — Sat 12/09**, short opening slot before the Project 2 block. Present the k=2 versus k=3 argument — you had a 0.001 gap in silhouette to resolve and you resolved it on business grounds rather than on the decimal. That is the discussion the A3 room most needs to have.
+**Sat 12/09**, short opening slot. Present the k=2 versus k=3 argument — you had a 0.001 gap in silhouette to resolve and you resolved it on business grounds rather than on the decimal. That is the discussion the A3 room most needs to have.
 
 ## 6. A note to the team
 
@@ -55,7 +55,7 @@ The first is that you wrote *"Why Scaling is Essential"* as its own section. The
 
 The second is your persona naming. Your biggest cluster is 238 of 300 customers, 79% of the base, moderately recent and moderately frequent — and you called them "Core / Regular Customers." That sounds like the obvious choice. It was not: four groups across both cohorts looked at a cluster of exactly that shape and reached for "VIP," "At-Risk" or "Dormant," and all four were returned for it. Naming the unremarkable majority accurately, instead of making it sound more interesting than it is, is the single most commercially useful instinct in this project. You had it on your first submission.
 
-Accepted, with two small notes in §4 that cost you nothing this time. Take the S14 slot and walk the room through k=2 versus k=3 — your margin was one thousandth of a silhouette point, and how you broke that tie is worth hearing.
+Accepted, with two small notes in §4 that cost you nothing this time. Take the Saturday slot and walk the room through k=2 versus k=3 — your margin was one thousandth of a silhouette point, and how you broke that tie is worth hearing.
 
 Good to have you back in it.
 

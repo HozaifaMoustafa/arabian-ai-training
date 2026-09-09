@@ -39,7 +39,7 @@ Not blocking. Fix before Project 2 opens.
 
 ## 5. Discussion slot
 
-**S13 — Thu 10/09.** Present the corrected version, framed as *what we changed and why*. Two minutes on why cluster 1 is "Standard" and not "VIP" is the whole story — the room has three other groups who made the same mistake.
+**Thu 10/09.** Present the corrected version, framed as *what we changed and why*. Two minutes on why cluster 1 is "Standard" and not "VIP" is the whole story — the room has three other groups who made the same mistake.
 
 ## 6. A note to the team
 
@@ -47,6 +47,6 @@ Not blocking. Fix before Project 2 opens.
 
 I want to be specific, because there is a version of this where you rename cluster 1 and move on, and that is not what you did. You went back to the naming *logic* — derived VIP from `idxmax()`, added an explicit branch for k=2 — so the bug cannot come back the next time K-Means shuffles its labels. That is the difference between patching an output and fixing a cause, and it is genuinely the harder instinct to learn. Several groups this round patched the output.
 
-The foundation was solid on 04/09 and I said so then. Now the last mile matches it. Accepted, no conditions. Take the S13 slot and show the room the corrected persona table — you are the clearest worked example of that mistake and its fix that I have.
+The foundation was solid on 04/09 and I said so then. Now the last mile matches it. Accepted, no conditions. Take the Thursday slot and show the room the corrected persona table — you are the clearest worked example of that mistake and its fix that I have.
 
 — Hozaifa

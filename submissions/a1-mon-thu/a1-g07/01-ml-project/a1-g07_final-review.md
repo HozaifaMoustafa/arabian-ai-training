@@ -24,7 +24,7 @@ This is the instructor's final review. Your mentor's `a1-g07_qa-review.md` was t
 
 ## 5. Discussion slot
 
-**S12 — Mon 07/09.** You presented at S11 and are approved. One thing worth raising if you speak again: your 43.6-day "Regular" group is 79% of customers and the biggest revenue lever in the dataset — a sentence on what would move them toward VIP would sharpen it.
+**Mon 07/09.** You presented on 03/09 and are approved. One thing worth raising if you speak again: your 43.6-day "Regular" group is 79% of customers and the biggest revenue lever in the dataset — a sentence on what would move them toward VIP would sharpen it.
 
 ## 6. A note to the team
 

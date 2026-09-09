@@ -31,7 +31,7 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 
 ## 5. Discussion slot
 
-**S12 — Mon 07/09.** You already presented at S10 and you are approved, so no second slot is required. Come anyway if you want to speak to the centroid inverse-transform; it is worth two minutes of everyone's time.
+**Mon 07/09.** You already presented on 31/08 and you are approved, so no second slot is required. Come anyway if you want to speak to the centroid inverse-transform; it is worth two minutes of everyone's time.
 
 ## 6. A note to the team
 

@@ -45,7 +45,7 @@ The k-justification note from 04/09 is **closed**. One new item, then the four t
 
    > `### Justification for Choosing $k=4$* **Elbow Point (WCSS):** The most noticeable reduction...`
 
-   All three bullets and the closing paragraph then run together as a single block. The *content* is right — it is only the line terminators. Open the cell in Jupyter or Colab, retype it as normal markdown with real line breaks, and re-save from the editor rather than hand-editing the `.ipynb`. It matters more than usual here because this exact cell is what you are presenting at S14.
+   All three bullets and the closing paragraph then run together as a single block. The *content* is right — it is only the line terminators. Open the cell in Jupyter or Colab, retype it as normal markdown with real line breaks, and re-save from the editor rather than hand-editing the `.ipynb`. It matters more than usual here because this exact cell is what you are presenting on Sat 12/09.
 
 Still open from 04/09:
 
@@ -56,7 +56,7 @@ Still open from 04/09:
 
 ## 5. Discussion slot
 
-**S14 — Sat 12/09.** Moved from S13, which did not run. Short slot: the corrected k-justification only. Read the closing sentence out loud — *"k=4 was not selected because it achieved the best score across all evaluation metrics"* — and then say what you would tell a stakeholder who asked why not k=2. I am still pairing this with a3-g03, and now also with a3-g02, who hit a 0.001 silhouette gap between k=2 and k=3 and broke the tie the same way you did.
+**Sat 12/09.** Moved from Tue 08/09, which was not held. Short slot: the corrected k-justification only. Read the closing sentence out loud — *"k=4 was not selected because it achieved the best score across all evaluation metrics"* — and then say what you would tell a stakeholder who asked why not k=2. I am still pairing this with a3-g03, and now also with a3-g02, who hit a 0.001 silhouette gap between k=2 and k=3 and broke the tie the same way you did.
 
 ## 6. A note to the team
 
