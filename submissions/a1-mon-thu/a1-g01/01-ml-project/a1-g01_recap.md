@@ -1,0 +1,4 @@
+# Customer Segmentation Project — RFM + K-Means Clustering
+
+**Project Summary:**
+This project segments retail customers using RFM (Recency, Frequency, Monetary) analysis. Raw transaction-level data is aggregated into a customer-level table, then scaled and clustered with K-Means (Monetary is log-transformed before scaling to reduce the influence of a few very high-spending customers). The best number of clusters (k) is chosen using the Elbow Method and Silhouette Score together, and the results are visualized with PCA. Finally, each cluster is turned into a named business persona (e.g. VIP, Loyal, Occasional, Lost) with a matching marketing recommendation.
