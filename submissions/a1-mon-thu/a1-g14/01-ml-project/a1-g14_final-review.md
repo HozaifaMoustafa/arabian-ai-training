@@ -29,7 +29,7 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 
 ## 5. Discussion slot
 
-**S12 — Mon 07/09.** Pulled forward from S13 into the compressed session.
+**Mon 07/09.** Pulled forward into the compressed session.
 
 ## 6. A note to the team
 

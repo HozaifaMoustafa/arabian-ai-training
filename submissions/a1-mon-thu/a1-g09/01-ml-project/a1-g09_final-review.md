@@ -30,7 +30,7 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 
 ## 5. Discussion slot
 
-**S12 — Mon 07/09.** This is your scheduled slot and you are ready. Be prepared to explain why you built the persona map from the table instead of typing the names in.
+**Mon 07/09.** This is your scheduled slot and you are ready. Be prepared to explain why you built the persona map from the table instead of typing the names in.
 
 ## 6. A note to the team
 

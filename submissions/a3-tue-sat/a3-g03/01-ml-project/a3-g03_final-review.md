@@ -31,7 +31,7 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 
 ## 5. Discussion slot
 
-**No further slot needed** — you presented at S10 and are closed out. If you are willing to sit in on S13 to compare notes with a3-g01 on the k write-up, it would be worth the room's time.
+**No further slot needed** — you presented on 29/08 and are closed out. If you are willing to sit in on Sat 12/09 to compare notes with a3-g01 on the k write-up, it would be worth the room's time.
 
 ## 6. A note to the team
 
@@ -39,6 +39,6 @@ Not blocking, but fix these before Project 2 — they cost marks later.
 
 You were the only group in twenty who stated *both* choices the criteria ask you to state and then explained *why* — the reference date chosen so nobody sits at recency zero, monetary as total because that is what the persona step is built on. Small, precise decisions, each one reasoned. And when your metrics did not support the k you wanted, you said so and argued the business case anyway. Another group reached the identical answer and wrote it up as though the numbers agreed; the contrast between your two notebooks is the single most useful teaching moment in this project.
 
-There is nothing for you to fix. Please come to S13 anyway and talk about how you approached the write-up — you have something the rest of the cohort needs to hear.
+There is nothing for you to fix. Please come on Sat 12/09 anyway and talk about how you approached the write-up — you have something the rest of the cohort needs to hear.
 
 — Hozaifa
