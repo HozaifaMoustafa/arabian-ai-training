@@ -14,7 +14,9 @@ Every project folder in this repo has its own `SUBMISSION_CRITERIA.md`. The gene
 
 Session 10 is when the discussion round for this project starts. A3 groups all present that session; A1 groups are split across a two-session block — check `discussion/a1-discussion-schedule.md` for your slot.
 
-> **Project 1 update — 09/09/2026 (round 2).** Final reviews were re-issued for every group whose status changed at the 07/09 catch-up deadline. Fifteen of twenty groups are now ✅ Accepted. Five remain open — `a1-g04`, `a1-g06`, `a1-g08`, `a3-g04` (🔁 Revise) and `a3-g05` (⛔ Not submitted) — against a **final catch-up deadline of Sun 13/09/2026, end of day**. This is the last extension on Project 1; after it, outcomes are recorded as they stand. See §6, your own `<group-id>_final-review.md`, and your cohort's discussion schedule.
+> **Project 1 update — 10/09/2026.** `a1-g08` pushed its catch-up fixes and is now ✅ Accepted. Sixteen of twenty groups are now ✅ Accepted. Four remain open — `a1-g04`, `a1-g06`, `a3-g04` (🔁 Revise) and `a3-g05` (⛔ Not submitted) — against the **final catch-up deadline of Sun 13/09/2026, end of day**, unchanged. This is the last extension on Project 1; after it, outcomes are recorded as they stand. See §6, your own `<group-id>_final-review.md`, and your cohort's discussion schedule.
+>
+> *(Superseded — 09/09/2026 (round 2): final reviews re-issued for every group whose status changed at the 07/09 catch-up deadline; fifteen of twenty groups accepted at that point.)*
 >
 > *(Superseded — 04/09/2026: first round of final reviews posted for all 20 groups, shared catch-up deadline Mon 07/09/2026.)*
 
