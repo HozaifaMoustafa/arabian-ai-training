@@ -38,6 +38,35 @@ Both items below are carried over from 04/09 unchanged. Neither was addressed in
 
 3. **Add the persona write-ups.** Point 6 asks for 2–3 sentences per persona: who they are and what the business should do *differently* for them. You have the names in `persona_names` and the means table beneath, which is the evidence — but the prose is missing entirely. Three short paragraphs in the markdown cells you are adding for item 1.
 
+### How to push this fix — exact commands
+
+Branch protection is on `main` and `staging`, not on your own branch — none of this is blocked by it. Run these from your local clone:
+
+```bash
+# 1. Get your branch
+git fetch origin
+git checkout a1_g04_01_ml_project
+git pull
+
+# 2. Move the good copy into the right place, drop the duplicate and the stray docx
+git mv "submissions/a1-mon-thu/a1-g04_01-ml-project/a1_g04_01_ml_project.ipynb" \
+       "submissions/a1-mon-thu/a1-g04/01-ml-project/a1-g04_01-ml-project.ipynb"
+git rm "submissions/a1-mon-thu/a1_g04_01_ml_project.ipynb"
+git rm "submissions/a1-mon-thu/a1-g04_01-ml-project/Customer_Segmentation_Project_Walkthrough (1).docx"
+
+# 3. Now open the notebook and, inside it:
+#    - turn each `# Point N —` banner comment into a markdown cell (paste the text in, add a `##` heading)
+#    - add the three persona paragraphs from item 3 above
+#    - Restart & Run All, then save
+
+# 4. Commit and push — this branch isn't protected, this just works
+git add -A
+git commit -m "Move notebook into a1-g04/01-ml-project, remove duplicates, add markdown sections"
+git push origin a1_g04_01_ml_project
+```
+
+Then open a fresh pull request from `a1_g04_01_ml_project` into `staging` (PR #37 is already merged, so it needs a new one, not a reopen) — `gh pr create --base staging`, or use the "Compare & pull request" button GitHub shows after the push. I'll review and merge it from there.
+
 ## 4. Notes carried forward
 
 Alongside the required fixes above.
