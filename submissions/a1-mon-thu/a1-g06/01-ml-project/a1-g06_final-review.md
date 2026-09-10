@@ -33,6 +33,26 @@ Two items carried over from 09/09 — unchanged, and the only things standing be
 
 Both are pure file operations — no notebook content changes required.
 
+### How to push this fix — exact commands
+
+Do **not** keep building on the `a1-g06_01-ml-project` branch (PR #47) — it was forked before round 2 merged, so it's missing a week of repo history and any PR from it will look like it deletes unrelated files again. Start a new branch from the current `staging` instead, which already has your notebook content:
+
+```bash
+# 1. Branch fresh from staging — it already has your current notebook
+git fetch origin
+git checkout -b a1-g06-fix origin/staging
+
+# 2. Move the notebook into the right folder and fix the doubled extension, in one step
+git mv "submissions/a1-mon-thu/a1-g06-01-ml-project/a1-g06_01-ml-project.ipynb.ipynb" \
+       "submissions/a1-mon-thu/a1-g06/01-ml-project/a1-g06_01-ml-project.ipynb"
+
+# 3. Commit and push — this branch isn't protected, this just works
+git commit -m "Move notebook into a1-g06/01-ml-project and fix filename"
+git push origin a1-g06-fix
+```
+
+Then open a pull request from `a1-g06-fix` into `staging` — `gh pr create --base staging`, or the "Compare & pull request" button GitHub shows after the push. I'll review and merge it from there.
+
 ## 4. Notes carried forward
 
 None outstanding beyond §3.
